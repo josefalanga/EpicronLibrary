@@ -1,0 +1,70 @@
+title: Start
+---
+//data initialization
+<<declare $act_1_levels = 0 as number>>
+<<set $act_1_levels to 5>>
+//stats
+<<declare $level = 0 as number>>
+<<set $level to 0>>
+
+<<declare $health = 0 as number>>
+<<set $health = 70>>
+
+<<declare $gold = 0 as number>>
+<<set $gold = 99>>
+
+<<declare $health_max = 0 as number>>
+<<set $health_max = 70>>
+
+<<declare $damage = 0 as number>>
+<<set $damage = 30>>
+
+<<declare $block = 0 as number>>
+<<set $block = 20>>
+//relics
+<<declare $relic_golden_idol = false as bool>>
+<<set $relic_golden_idol = false>>
+
+<<declare $relic_nice_face = false as bool>>
+<<set $relic_nice_face = false>>
+
+<<declare $relic_bad_face = false as bool>>
+<<set $relic_bad_face = false>>
+//curses
+<<declare $cursed_corruption = false as bool>>
+<<set $cursed_corruption = false>>
+
+<<declare $cursed_blood_pact = false as bool>>
+<<set $cursed_blood_pact = false>>
+
+<<declare $cursed_regret = false as bool>>
+<<set $cursed_regret = false>>
+
+You arrive to a very tall tower, so high you cannot see the top. The taller, the uglier, twisted and indescribable it becomes, seemingly defying the laws of nature. Maybe hell is upwards, maybe you are just loosing your sanity.
+
+Rumors of greatness, richness, and power have plagued the place since you can remember, yet nobody has ever returned from the climb. As you approximate to the wooden door at the bottom, you see a dark figure, looking at you.
+
+- Gatekeeper: Hello adventurer. How will you pay this time?
+
+//One plus one is {add_numbers(1, 1)}
+
+-> I'm a highborn, I pay no entrance fee <<if false>>
+-> Bribe (pay 20 gold, you become cursed with Corruption)
+    <<set $gold = $gold - 20>>
+    <<set $cursed_corruption to true>>
+    - Gatekeeper: You are a cheap, cheap bastard. You should be ashamed. Anyway...
+-> Blood pact (loose 15 health, gain 10 damage, become cursed with Blood Pact)
+    <<set $health = $health - 15>>
+    <<set $damage = $damage + 10>>
+    <<set $cursed_blood_pact = true>>
+    You take your blade out, make a cut along the palm of your left hand, and let the blood drip at the hands of the Gatekeeper.
+    - Gatekeeper: I see you are a very... intense person. I'll remember this oath of pain.
+-> Pay entrance fee (loose all you gold)
+    <<set $gold = 0>>
+    Gatekeeper: Another satisfied customer.
+
+- Gatekeeper: That will suffice. You can enter the tower now.
+
+-> Enter
+    <<jump Act1Hub>>
+===

@@ -1,0 +1,50 @@
+title: Act1Boss
+---
+As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature. 
+
+No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?
+
+Creature: Why you disturb my slumber again, pathetic worm? Do you really like dying that much?
+
+-> A-again?
+    You see the beast grinning, tasting your confussion. How many times this has happened already?
+-> I'm already here, so let's do it!
+    The beast prepares to charge at you.
+
+Creature: How many times I have to teach you this lesson?
+
+-> Act1BossWin
+    <<jump Act1BossWin>>
+-> Act1BossWin
+    <<jump Act1BossWin>>
+-> Act1BossWin
+    <<jump Act1BossWin>>
+-> Act1BossWin
+    <<jump Act1BossWin>>
+-> Act1BossDie
+    <<jump Act1BossDie>>
+-> Act1BossDie
+    <<jump Act1BossDie>>
+-> Act1BossDie
+    <<jump Act1BossDie>>
+-> Act1BossDie
+    <<jump Act1BossDie>>
+===
+title: Act1BossDie
+---
+You had an horrible, excruciating death, but somehow, you are still here, your consiousness is floating in the room, un-alived. 
+<<if $cursed_blood_pact>>
+Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.
+<<jump Start>>
+<<endif>>
+===
+title: Act1BossWin
+---
+The beast lays at your feet, completly broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.
+
+-> Take a tentacle
+-> Take a feather
+-> Drink the slime
+
+You won, and the room gets smaller again. On the ceiling up the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, of a throwing a rope for you to climb to the next floor. What's happening here?
+===

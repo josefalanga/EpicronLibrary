@@ -1,0 +1,70 @@
+title: Act1Hub
+---
+<<if $health <= 0>>
+ <<jump Act1ClimbDie>>
+<<endif>>
+<<set $level to $level+1>>
+<<if $level <= $act_1_levels>>
+
+You go upstairs.
+
+    -> Combat
+        <<jump Act1CombatRoll>>
+    -> Combat
+        <<jump Act1CombatRoll>>
+    -> Combat
+        <<jump Act1CombatRoll>>
+    -> Event
+        <<jump Act1EventsRoll>>
+    -> Event
+        <<jump Act1EventsRoll>>
+    -> Rest
+        <<jump Act1Rest>>
+    -> Shop
+        <<jump Act1Shop>>
+    -> Treasure
+        <<jump Act1TreasureRoll>>
+<<else>>
+You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completly covered in blood and feces, yet no animal or human remains are in sight. What's happening here?
+-> Touch the altar
+    <<jump Act1Boss>>
+-> Turn back
+    <b>THUMPH<b>
+    Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completly, you hear a loud sound of wings coming over you.
+    <<jump Act1BossDie>> 
+<<endif>>
+===
+title: Act1CombatRoll
+---
+Combat Placeholder
+
+<<jump Act1Hub>>
+===
+title: Act1TreasureRoll
+---
+Treasure Placeholder
+
+<<jump Act1Hub>>
+===
+title: Act1Rest
+---
+Resting Placeholder
+
+<<jump Act1Hub>>
+===
+title: Act1Shop
+---
+Shop Placeholder
+
+<<jump Act1Hub>>
+===
+title: Act1ClimbDie
+---
+Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In them hand, a gruesome blade shines red. 
+
+"Uh... I always tought it was a Scythe" you think for yourself.
+
+- Stranger: I'm sorry, im not Death, I'm something way, way worse... little one.
+
+He raises the sword in the air, and you prepare for the strike, bit it never comes. Everything just fades away, and you feel numb.
+===

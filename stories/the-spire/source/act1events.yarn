@@ -1,0 +1,122 @@
+title: Act1EventsRoll
+---
+-> Big_Fish
+    <<jump Big_Fish>>
+-> The_Cleric
+    <<jump The_Cleric>>
+-> Golden_Idol
+    <<jump Golden_Idol>>
+-> Face_Trader
+    <<jump Face_Trader>>
+-> Golden_Shrine
+    <<jump Golden_Shrine>>
+===
+
+title: Big_Fish
+---
+As you make your way down a long corridor you see a banana, a donut, and a box floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects.
+What do you do?
+-> Banana
+    You eat the banana. It is nutritious and slightly magical, healing you.
+    <<set $health to $health+14>>
+-> Donut
+    You eat the donut. It really hits the spot! Your Max HP increases.
+    <<set $health_max to $health_max+7>>
+-> Box
+    You grab the box. Inside you find a weapon!
+    However, you really craved the donut...
+    You are filled with sadness, but mostly regret.
+    <<set $damage to $damage+10>>
+<<jump Act1Hub>>
+===
+
+title: The_Cleric
+---
+A strange blue humanoid with a golden helm approaches you with a huge smile.
+"Hello friend! I am Cleric! Are you interested in my services?!" the creature shouts, loudly.
+-> Heal (35 gold)
+    A warm golden light envelops your body and dissipates.
+    The creature grins.
+    Cleric: "Cleric best healer. Have a good day!"
+    <<set $gold to $gold-35>>
+    <<set $health to $health + $health_max/4>>
+-> Purify (25 gold)
+    A cold blue flame envelops your body and dissipates.
+    The creature grins.
+    Cleric: "Cleric talented. Have a good day!"
+    <<set $gold to $gold-25>>
+    <<set $damage to $damage+10>>
+-> Leave
+    You don't trust this "Cleric", so you leave.
+<<jump Act1Hub>>
+===
+
+title: Golden_Idol
+---
+You come across an inconspicuous pedestal with a shining gold idol sitting peacefully atop. It looks incredibly valuable.
+You sure don't see any traps nearby.
+-> Take
+    <<set $relic_golden_idol to true>>
+    As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you.
+    You realize that the floor is slanted downwards as the boulder starts to roll towards you.
+    -> Outrun
+        <<set $damage to $damage-10>>
+        RUUUUUUUUUUN!
+        You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.
+    -> Smash
+        <<set $health to $health-$health_max/4>>
+        You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.
+    -> Hide
+        <<set $health_max to $health_max-7>>
+        <<set $health to $health-7>>
+        SQUISH!
+        The boulder flattens you a little as it passes by, but otherwise you can get out of here.
+-> Leave
+    If there was ever an obvious trap, this would be it.
+    You decide not to interfere with objects placed upon pedestals.
+<<jump Act1Hub>>
+===
+title: Golden_Shrine
+---
+Before you lies an elaborate shrine to an ancient spirit.
+
+-> Pray (Gain 100 gold.)
+    <<set $gold = $gold + 100>>
+    As your hand touches the shrine, gold rains from the ceiling showering you in riches.
+-> Desecrate (Gain 275 Gold. Become cursed with Regret)
+    <<set $gold = $gold + 275>>
+    <<set $cursed_regret = true>>
+    Each time you strike the shrine, gold pours forth again and again!
+    As you pocket the riches, something weighs heavily on you.
+-> Leave
+    You ignore the shrine.
+
+<<jump Act1Hub>>
+===
+title: Face_Trader
+---
+You walk by an eerie statue holding several masks...
+Something behind you softly whispers, "Stop."
+You swerve around to face the statue which is now facing you!
+On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing?
+Eerie Man: "Face. Let me touch? Maybe trade?"
+-> Touch
+    Eerie Man: "Compensation. Compensation."
+    Mechanically, he cranes out a neat stack of gold and places it into your pouch.
+    <<set $gold = $gold + 75>>
+    Eerie Man: "What a nice face. Nice face."
+    While he touches your face, you begin to feel your life drain out of it!
+    <<set $health = $health - $health_max/10>>
+    During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.
+    His face was completely blank.
+-> Trade
+    Eerie Man: "For me? FOR ME? Oh yes.. Yes. Yes.. mmm..."
+    You see one of his arms flicker, and your face is in its hand! Your face has been swapped.
+    Eerie Man: "Nice face. Nice face."
+    <<set $relic_nice_face = true>>
+-> Leave
+    Eerie Man: "Stop. Stop. Stop. Stop. Stop."
+    This was probably the right call.
+
+<<jump Act1Hub>>
+===
