@@ -32,31 +32,18 @@ ysc compile --output-directory ./compiled/ --output-name story $(ls | grep ".yar
 Esto generará una nueva carpeta llamada `compiled` con todo lo necesario para subir la historia, tal cual está, a este repositorio.
 
 ## Comandos Soportados
-YarnSpinner soporta [comandos](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/commands) y [funciones](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/functions). La diferencia entre funciones y comandos es principalmente ésta: Llamamos a las funciones cuando necesitamos obtener información (por ejemplo, cual es el resultado de tirar un dado?), y llamamos a los comandos cuando queremos que algo suceda (por ejemplo, enviar una imagen al chat).
+YarnSpinner soporta [comandos](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/commands) y [funciones](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/functions). La diferencia entre funciones y comandos es principalmente ésta: Llamamos a las funciones cuando necesitamos obtener información (por ejemplo, cual es el resultado de tirar un dado?), y llamamos a los comandos cuando queremos que algo suceda (por ejemplo, esperar cierta cantidad de segundos antes de continuar).
 
-Epicron soporta todas las funciones Built-In:
-- visited(string node_name)
-- visited_count(string node_name)
-- random()
-- random_range(number a, number b)
-- dice(number sides)
-- round(number n)
-- round_places(number n, number places)
-- floor(number n)
-- ceil(number n)
-- inc(number n)
-- dec(number n)
-- decimal(number n)
-- int(number n)
+Epicron soporta todas las funciones y comandos built-in, con la salvedad de `stop`. Llamar a este comando provoca el final de la historia, no solo el final del dialogo
 
-No soporta los comandos Built-In:
-- stop: llamar a este comando provoca el final de la historia, no solo el final del dialogo
-- wait: se puede implementar si tuviese sentido
+Estas funciones personalizadas están disponibles:
+- get_player_name
+- get_player_nickname
+- get_player_premium_status
 
-Estos comandos personalizados estan disponibles:
+Estos comandos personalizados están disponibles:
 - send_picture: enviar una imagen al chat
 - send_audio: enviar un audio al chat
 - return: volver al nodo anterior, justo en la linea siguiente al `<<jump NodeName>>`.
 
-
-Si necesitas más, abre un Issue y charlamos si es algo de lo que otros se pueden beneficiar.
+Si necesitas más comandos o funciones, abre un Issue y charlamos. Si es algo de lo que otras historias se pueden beneficiar, seguro lo agrego.
