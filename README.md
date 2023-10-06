@@ -42,8 +42,8 @@ Estas funciones personalizadas están disponibles:
 - get_player_premium_status
 
 Estos comandos personalizados están disponibles:
-- send_picture: enviar una imagen al chat
-- send_audio: enviar un audio al chat
+- send_picture: enviar una imagen al chat. Es una ruta desde `/stories/story-name/pictures/`
+- send_audio: enviar un audio al chat. Es una ruta desde `/stories/story-name/audios/`
 - return: volver al nodo anterior, justo en la linea siguiente al `<<jump NodeName>>`.
 
 Si necesitas más comandos o funciones, abre un Issue y charlamos. Si es algo de lo que otras historias se pueden beneficiar, seguro lo agrego.
