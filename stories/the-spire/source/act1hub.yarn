@@ -29,7 +29,7 @@ You reach a floor with no windows, and no visible stairs. The only thing that ca
 -> Touch the altar
     <<jump Act1Boss>>
 -> Turn back
-    <b>THUMPH<b>
+    <b>THUMPH</b>
     Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completly, you hear a loud sound of wings coming over you.
     <<jump Act1BossDie>> 
 <<endif>>
