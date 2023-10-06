@@ -1,129 +1,129 @@
 id,text,file,node,lineNumber
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-0,"You arrive to a very tall tower, so high you cannot see the top. The taller, the uglier, twisted and indescribable it becomes, seemingly defying the laws of nature. Maybe hell is upwards, maybe you are just loosing your sanity.",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,43
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-1,"Rumors of greatness, richness, and power have plagued the place since you can remember, yet nobody has ever returned from the climb. As you approximate to the wooden door at the bottom, you see a dark figure, looking at you.",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,45
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-2,- Gatekeeper: Hello adventurer. How will you pay this time?,/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,47
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-3,"I'm a highborn, I pay no entrance fee",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,51
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-4,"Bribe (pay 20 gold, you become cursed with Corruption)",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,52
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-5,"- Gatekeeper: You are a cheap, cheap bastard. You should be ashamed. Anyway...",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,55
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-6,"Blood pact (loose 15 health, gain 10 damage, become cursed with Blood Pact)",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,56
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-7,"You take your blade out, make a cut along the palm of your left hand, and let the blood drip at the hands of the Gatekeeper.",/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,60
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-8,- Gatekeeper: I see you are a very... intense person. I'll remember this oath of pain.,/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,61
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-9,Pay entrance fee (loose all you gold),/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,62
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-10,Gatekeeper: Another satisfied customer.,/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,64
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-11,- Gatekeeper: That will suffice. You can enter the tower now.,/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,66
-line:/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn-Start-12,Enter,/builds/jose.falanga/aellahbot/YarnStory/0_story.yarn,Start,68
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Act1EventsRoll-13,Big_Fish,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Act1EventsRoll,3
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Act1EventsRoll-14,The_Cleric,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Act1EventsRoll,5
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Act1EventsRoll-15,Golden_Idol,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Act1EventsRoll,7
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Act1EventsRoll-16,Face_Trader,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Act1EventsRoll,9
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Act1EventsRoll-17,Golden_Shrine,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Act1EventsRoll,11
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-18,"As you make your way down a long corridor you see a banana, a donut, and a box floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,17
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-19,What do you do?,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,18
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-20,Banana,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,19
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-21,"You eat the banana. It is nutritious and slightly magical, healing you.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,20
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-22,Donut,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,22
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-23,You eat the donut. It really hits the spot! Your Max HP increases.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,23
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-24,Box,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,25
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-25,You grab the box. Inside you find a weapon!,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,26
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-26,"However, you really craved the donut...",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,27
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Big_Fish-27,"You are filled with sadness, but mostly regret.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Big_Fish,28
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-28,A strange blue humanoid with a golden helm approaches you with a huge smile.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,35
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-29,"""Hello friend! I am Cleric! Are you interested in my services?!"" the creature shouts, loudly.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,36
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-30,Heal (35 gold),/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,37
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-31,A warm golden light envelops your body and dissipates.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,38
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-32,The creature grins.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,39
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-33,"Cleric: ""Cleric best healer. Have a good day!""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,40
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-34,Purify (25 gold),/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,43
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-35,A cold blue flame envelops your body and dissipates.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,44
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-36,The creature grins.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,45
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-37,"Cleric: ""Cleric talented. Have a good day!""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,46
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-38,Leave,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,49
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-The_Cleric-39,"You don't trust this ""Cleric"", so you leave.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,The_Cleric,50
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-40,You come across an inconspicuous pedestal with a shining gold idol sitting peacefully atop. It looks incredibly valuable.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,56
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-41,You sure don't see any traps nearby.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,57
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-42,Take,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,58
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-43,"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,60
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-44,You realize that the floor is slanted downwards as the boulder starts to roll towards you.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,61
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-45,Outrun,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,62
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-46,RUUUUUUUUUUN!,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,64
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-47,You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,65
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-48,Smash,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,66
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-49,"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,68
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-50,Hide,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,69
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-51,SQUISH!,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,72
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-52,"The boulder flattens you a little as it passes by, but otherwise you can get out of here.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,73
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-53,Leave,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,74
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-54,"If there was ever an obvious trap, this would be it.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,75
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Idol-55,You decide not to interfere with objects placed upon pedestals.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Idol,76
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-56,Before you lies an elaborate shrine to an ancient spirit.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,81
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-57,Pray (Gain 100 gold.),/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,83
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-58,"As your hand touches the shrine, gold rains from the ceiling showering you in riches.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,85
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-59,Desecrate (Gain 275 Gold. Become cursed with Regret),/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,86
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-60,"Each time you strike the shrine, gold pours forth again and again!",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,89
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-61,"As you pocket the riches, something weighs heavily on you.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,90
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-62,Leave,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,91
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Golden_Shrine-63,You ignore the shrine.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Golden_Shrine,92
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-64,You walk by an eerie statue holding several masks...,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,98
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-65,"Something behind you softly whispers, ""Stop.""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,99
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-66,You swerve around to face the statue which is now facing you!,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,100
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-67,"On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing?",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,101
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-68,"Eerie Man: ""Face. Let me touch? Maybe trade?""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,102
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-69,Touch,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,103
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-70,"Eerie Man: ""Compensation. Compensation.""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,104
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-71,"Mechanically, he cranes out a neat stack of gold and places it into your pouch.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,105
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-72,"Eerie Man: ""What a nice face. Nice face.""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,107
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-73,"While he touches your face, you begin to feel your life drain out of it!",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,108
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-74,"During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,110
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-75,His face was completely blank.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,111
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-76,Trade,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,112
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-77,"Eerie Man: ""For me? FOR ME? Oh yes.. Yes. Yes.. mmm...""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,113
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-78,"You see one of his arms flicker, and your face is in its hand! Your face has been swapped.",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,114
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-79,"Eerie Man: ""Nice face. Nice face.""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,115
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-80,Leave,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,117
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-81,"Eerie Man: ""Stop. Stop. Stop. Stop. Stop.""",/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,118
-line:/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn-Face_Trader-82,This was probably the right call.,/builds/jose.falanga/aellahbot/YarnStory/act1events.yarn,Face_Trader,119
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-83,You go upstairs.,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,9
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-84,Combat,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,11
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-85,Combat,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,13
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-86,Combat,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,15
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-87,Event,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,17
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-88,Event,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,19
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-89,Rest,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,21
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-90,Shop,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,23
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-91,Treasure,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,25
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-92,"You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completly covered in blood and feces, yet no animal or human remains are in sight. What's happening here?",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,28
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-93,Touch the altar,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,29
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-94,Turn back,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,31
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-95,<b>THUMPH<b>,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,32
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Hub-96,"Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completly, you hear a loud sound of wings coming over you.",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Hub,33
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1CombatRoll-97,Combat Placeholder,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1CombatRoll,39
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1TreasureRoll-98,Treasure Placeholder,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1TreasureRoll,45
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Rest-99,Resting Placeholder,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Rest,51
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1Shop-100,Shop Placeholder,/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1Shop,57
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1ClimbDie-101,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In them hand, a gruesome blade shines red.",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1ClimbDie,63
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1ClimbDie-102,"""Uh... I always tought it was a Scythe"" you think for yourself.",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1ClimbDie,65
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1ClimbDie-103,"- Stranger: I'm sorry, im not Death, I'm something way, way worse... little one.",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1ClimbDie,67
-line:/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn-Act1ClimbDie-104,"He raises the sword in the air, and you prepare for the strike, bit it never comes. Everything just fades away, and you feel numb.",/builds/jose.falanga/aellahbot/YarnStory/act1hub.yarn,Act1ClimbDie,69
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-105,"As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,3
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-106,"No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,5
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-107,"Creature: Why you disturb my slumber again, pathetic worm? Do you really like dying that much?",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,7
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-108,A-again?,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,9
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-109,"You see the beast grinning, tasting your confussion. How many times this has happened already?",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,10
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-110,"I'm already here, so let's do it!",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,11
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-111,The beast prepares to charge at you.,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,12
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-112,Creature: How many times I have to teach you this lesson?,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,14
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-113,Act1BossWin,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,16
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-114,Act1BossWin,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,18
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-115,Act1BossWin,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,20
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-116,Act1BossWin,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,22
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-117,Act1BossDie,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,24
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-118,Act1BossDie,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,26
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-119,Act1BossDie,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,28
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1Boss-120,Act1BossDie,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1Boss,30
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossDie-121,"You had an horrible, excruciating death, but somehow, you are still here, your consiousness is floating in the room, un-alived.",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossDie,35
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossDie-122,"Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossDie,37
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossWin-123,"The beast lays at your feet, completly broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossWin,43
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossWin-124,Take a tentacle,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossWin,45
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossWin-125,Take a feather,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossWin,46
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossWin-126,Drink the slime,/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossWin,47
-line:/builds/jose.falanga/aellahbot/YarnStory/boss.yarn-Act1BossWin-127,"You won, and the room gets smaller again. On the ceiling up the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, of a throwing a rope for you to climb to the next floor. What's happening here?",/builds/jose.falanga/aellahbot/YarnStory/boss.yarn,Act1BossWin,49
+line:b16b854d,"You arrive to a very tall tower, so high you cannot see the top. The taller, the uglier, twisted and indescribable it becomes, seemingly defying the laws of nature. Maybe hell is upwards, maybe you are just loosing your sanity.",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,43
+line:275b823a,"Rumors of greatness, richness, and power have plagued the place since you can remember, yet nobody has ever returned from the climb. As you approximate to the wooden door at the bottom, you see a dark figure, looking at you.",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,45
+line:9d0a8ba3,- Gatekeeper: Hello adventurer. How will you pay this time?,C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,47
+line:0b3a8cd4,"I'm a highborn, I pay no entrance fee",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,52
+line:a8afe84a,"Bribe (pay 20 gold, you become cursed with Corruption)",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,53
+line:3e9fef3d,"- Gatekeeper: You are a cheap, cheap bastard. You should be ashamed. Anyway...",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,56
+line:84cee6a4,"Blood pact (loose 15 health, gain 10 damage, become cursed with Blood Pact)",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,57
+line:12fee1d3,"You take your blade out, make a cut along the palm of your left hand, and let the blood drip at the hands of the Gatekeeper.",C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,61
+line:83e35e43,- Gatekeeper: I see you are a very... intense person. I'll remember this oath of pain.,C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,62
+line:15d35934,Pay entrance fee (loose all you gold),C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,63
+line:11e8eb51,Gatekeeper: Another satisfied customer.,C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,65
+line:87d8ec26,- Gatekeeper: That will suffice. You can enter the tower now.,C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,67
+line:3d89e5bf,Enter,C:\development\games\EpicronLibrary\stories\the-spire\source\0_story.yarn,Start,69
+line:cdc4c590,Big_Fish,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Act1EventsRoll,3
+line:6e51a10e,The_Cleric,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Act1EventsRoll,5
+line:f861a679,Golden_Idol,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Act1EventsRoll,7
+line:4230afe0,Face_Trader,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Act1EventsRoll,9
+line:d400a897,Golden_Shrine,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Act1EventsRoll,11
+line:fbd87ba7,"As you make your way down a long corridor you see a banana, a donut, and a box floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,17
+line:6de87cd0,What do you do?,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,18
+line:0a038d82,Banana,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,19
+line:9c338af5,"You eat the banana. It is nutritious and slightly magical, healing you.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,20
+line:2662836c,Donut,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,22
+line:b052841b,You eat the donut. It really hits the spot! Your Max HP increases.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,23
+line:13c7e085,Box,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,25
+line:85f7e7f2,You grab the box. Inside you find a weapon!,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,26
+line:3fa6ee6b,"However, you really craved the donut...",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,27
+line:a996e91c,"You are filled with sadness, but mostly regret.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Big_Fish,28
+line:60d5e256,A strange blue humanoid with a golden helm approaches you with a huge smile.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,35
+line:f6e5e521,"""Hello friend! I am Cleric! Are you interested in my services?!"" the creature shouts, loudly.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,36
+line:136c2241,Heal (35 gold),C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,37
+line:855c2536,A warm golden light envelops your body and dissipates.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,38
+line:3f0d2caf,The creature grins.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,39
+line:a93d2bd8,"Cleric: ""Cleric best healer. Have a good day!""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,40
+line:0aa84f46,Purify (25 gold),C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,43
+line:9c984831,A cold blue flame envelops your body and dissipates.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,44
+line:26c941a8,The creature grins.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,45
+line:b0f946df,"Cleric: ""Cleric talented. Have a good day!""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,46
+line:21e4f94f,Leave,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,49
+line:b7d4fe38,"You don't trust this ""Cleric"", so you leave.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,The_Cleric,50
+line:e4fe8586,You come across an inconspicuous pedestal with a shining gold idol sitting peacefully atop. It looks incredibly valuable.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,56
+line:72ce82f1,You sure don't see any traps nearby.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,57
+line:c89f8b68,Take,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,58
+line:5eaf8c1f,"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,60
+line:fd3ae881,You realize that the floor is slanted downwards as the boulder starts to roll towards you.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,61
+line:6b0aeff6,Outrun,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,62
+line:d15be66f,RUUUUUUUUUUN!,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,64
+line:476be118,You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,65
+line:d6765e88,Smash,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,66
+line:404659ff,"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,68
+line:a5cf9e9f,Hide,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,69
+line:33ff99e8,SQUISH!,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,72
+line:89ae9071,"The boulder flattens you a little as it passes by, but otherwise you can get out of here.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,73
+line:1f9e9706,Leave,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,74
+line:bc0bf398,"If there was ever an obvious trap, this would be it.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,75
+line:2a3bf4ef,You decide not to interfere with objects placed upon pedestals.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Idol,76
+line:99f0f1df,Before you lies an elaborate shrine to an ancient spirit.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,81
+line:0fc0f6a8,Pray (Gain 100 gold.),C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,83
+line:9edd4938,"As your hand touches the shrine, gold rains from the ceiling showering you in riches.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,85
+line:08ed4e4f,Desecrate (Gain 275 Gold. Become cursed with Regret),C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,86
+line:6f06bf1d,"Each time you strike the shrine, gold pours forth again and again!",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,89
+line:f936b86a,"As you pocket the riches, something weighs heavily on you.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,90
+line:4367b1f3,Leave,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,91
+line:d557b684,You ignore the shrine.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Golden_Shrine,92
+line:fc79c168,You walk by an eerie statue holding several masks...,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,98
+line:6a49c61f,"Something behind you softly whispers, ""Stop.""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,99
+line:d018cf86,You swerve around to face the statue which is now facing you!,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,100
+line:4628c8f1,"On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing?",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,101
+line:d7357761,"Eerie Man: ""Face. Let me touch? Maybe trade?""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,102
+line:41057016,Touch,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,103
+line:a48cb776,"Eerie Man: ""Compensation. Compensation.""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,104
+line:32bcb001,"Mechanically, he cranes out a neat stack of gold and places it into your pouch.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,105
+line:88edb998,"Eerie Man: ""What a nice face. Nice face.""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,107
+line:1eddbeef,"While he touches your face, you begin to feel your life drain out of it!",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,108
+line:bd48da71,"During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,110
+line:2b78dd06,His face was completely blank.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,111
+line:9129d49f,Trade,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,112
+line:0719d3e8,"Eerie Man: ""For me? FOR ME? Oh yes.. Yes. Yes.. mmm...""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,113
+line:96046c78,"You see one of his arms flicker, and your face is in its hand! Your face has been swapped.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,114
+line:00346b0f,"Eerie Man: ""Nice face. Nice face.""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,115
+line:6b902ff1,Leave,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,117
+line:fda02886,"Eerie Man: ""Stop. Stop. Stop. Stop. Stop.""",C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,118
+line:47f1211f,This was probably the right call.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1events.yarn,Face_Trader,119
+line:fb130419,You go upstairs.,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,9
+line:58866087,Combat,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,11
+line:ceb667f0,Combat,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,13
+line:74e76e69,Combat,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,15
+line:e2d7691e,Event,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,17
+line:73cad68e,Event,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,19
+line:e5fad1f9,Rest,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,21
+line:00731699,Shop,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,23
+line:964311ee,Treasure,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,25
+line:2c121877,"You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completly covered in blood and feces, yet no animal or human remains are in sight. What's happening here?",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,28
+line:ba221f00,Touch the altar,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,29
+line:19b77b9e,Turn back,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,31
+line:8f877ce9,<b>THUMPH<b>,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,32
+line:35d67570,"Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completly, you hear a loud sound of wings coming over you.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Hub,33
+line:30cc7e5e,Combat Placeholder,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1CombatRoll,39
+line:78dbbdc9,Treasure Placeholder,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1TreasureRoll,45
+line:a952160e,Resting Placeholder,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Rest,51
+line:70cd95b4,Shop Placeholder,C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1Shop,57
+line:80e5cb30,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In them hand, a gruesome blade shines red.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1ClimbDie,63
+line:3ab4c2a9,"""Uh... I always tought it was a Scythe"" you think for yourself.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1ClimbDie,65
+line:ac84c5de,"- Stranger: I'm sorry, im not Death, I'm something way, way worse... little one.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1ClimbDie,67
+line:0f11a140,"He raises the sword in the air, and you prepare for the strike, bit it never comes. Everything just fades away, and you feel numb.",C:\development\games\EpicronLibrary\stories\the-spire\source\act1hub.yarn,Act1ClimbDie,69
+line:512f93b0,"As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,3
+line:eb7e9a29,"No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,5
+line:7d4e9d5e,"Creature: Why you disturb my slumber again, pathetic worm? Do you really like dying that much?",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,7
+line:ec5322ce,A-again?,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,9
+line:7a6325b9,"You see the beast grinning, tasting your confussion. How many times this has happened already?",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,10
+line:9feae2d9,"I'm already here, so let's do it!",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,11
+line:09dae5ae,The beast prepares to charge at you.,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,12
+line:b38bec37,Creature: How many times I have to teach you this lesson?,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,14
+line:25bbeb40,Act1BossWin,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,16
+line:862e8fde,Act1BossWin,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,18
+line:101e88a9,Act1BossWin,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,20
+line:aa4f8130,Act1BossWin,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,22
+line:3c7f8647,Act1BossDie,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,24
+line:ad6239d7,Act1BossDie,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,26
+line:3b523ea0,Act1BossDie,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,28
+line:5cb9cff2,Act1BossDie,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1Boss,30
+line:3082c3d5,"You had an horrible, excruciating death, but somehow, you are still here, your consiousness is floating in the room, un-alived.",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossDie,35
+line:8ad3ca4c,"Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossDie,37
+line:28148e69,"The beast lays at your feet, completly broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossWin,43
+line:8b81eaf7,Take a tentacle,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossWin,45
+line:1db1ed80,Take a feather,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossWin,46
+line:a7e0e419,Drink the slime,C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossWin,47
+line:31d0e36e,"You won, and the room gets smaller again. On the ceiling up the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, of a throwing a rope for you to climb to the next floor. What's happening here?",C:\development\games\EpicronLibrary\stories\the-spire\source\boss.yarn,Act1BossWin,49

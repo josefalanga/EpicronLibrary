@@ -46,7 +46,8 @@ Rumors of greatness, richness, and power have plagued the place since you can re
 
 - Gatekeeper: Hello adventurer. How will you pay this time?
 
-//One plus one is {add_numbers(1, 1)}
+<<send_picture pic.png>>
+<<send_audio audio.wav>>
 
 -> I'm a highborn, I pay no entrance fee <<if false>>
 -> Bribe (pay 20 gold, you become cursed with Corruption)
