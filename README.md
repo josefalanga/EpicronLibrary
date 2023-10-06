@@ -43,7 +43,21 @@ Estas funciones personalizadas están disponibles:
 
 Estos comandos personalizados están disponibles:
 - send_picture: enviar una imagen al chat. Es una ruta desde `/stories/story-name/pictures/`
+```
+<<send_picture pic.png>>
+<<send_picture pic.png "optional picture caption">>
+```
+![send pic results](.readme/send_picture.png "result of both calls shown above").
 - send_audio: enviar un audio al chat. Es una ruta desde `/stories/story-name/audios/`
+```
+<<send_audio audio.wav>>
+<<send_audio audio.wav "optional title">>
+<<send_audio audio.wav "optional title" "optional audio caption">>
+```
+![send audio results](.readme/send_audio.png "result of all calls shown above").
 - return: volver al nodo anterior, justo en la linea siguiente al `<<jump NodeName>>`.
 
 Si necesitas más comandos o funciones, abre un Issue y charlamos. Si es algo de lo que otras historias se pueden beneficiar, seguro lo agrego.
+
+## Roll automático de opciones
+Presentar 6 [opciones](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/lines-nodes-and-options#options) o más, generará un roll automático. Esto está pensando para agregar un poco de proceduralidad a las historias. Podría ser optativo, configurado en el la metadata de la historia.
