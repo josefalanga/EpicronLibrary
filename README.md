@@ -60,4 +60,17 @@ Estos comandos personalizados están disponibles:
 Si necesitas más comandos o funciones, abre un Issue y charlamos. Si es algo de lo que otras historias se pueden beneficiar, seguro lo agrego.
 
 ## Roll automático de opciones
-Presentar 6 [opciones](https://docs.yarnspinner.dev/getting-started/writing-in-yarn/lines-nodes-and-options#options) o más, generará un roll automático. Esto está pensando para agregar un poco de proceduralidad a las historias. Podría ser optativo, configurado en el la metadata de la historia.
+Para que un nodo sea resuelto automáticamente con un roll aleatorio (en lugar de presentar las opciones al jugador), agregá el tag `autoroll` al encabezado del nodo:
+
+```yarn
+title: MiNodoAleatorio
+tags: autoroll
+---
+-> Opción A
+    <<jump NodoA>>
+-> Opción B
+    <<jump NodoB>>
+===
+```
+
+Esto está pensado para agregar proceduralidad a las historias, por ejemplo para determinar qué evento o enemigo aparece. El bot elegirá una opción al azar y continuará la historia sin intervención del jugador.
