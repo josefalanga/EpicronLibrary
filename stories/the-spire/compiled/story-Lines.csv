@@ -14,234 +14,235 @@ line:02730b37,- Gatekeeper: That will suffice. You can enter the tower now.,/hom
 line:b82202ae,Enter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/0_story.yarn,Start,74
 line:0ba178d4,Big_Fish,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,4
 line:a8341c4a,The_Cleric,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,6
-line:3e041b3d,Golden_Idol,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,8
-line:845512a4,Face_Trader,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,10
-line:126515d3,Golden_Shrine,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,12
-line:d143bdb8,"As you make your way down a long corridor you see a banana, a donut, and a box floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,18
-line:4773bacf,What do you do?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,19
-line:20984b9d,Banana,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,20
-line:b6a84cea,"You eat the banana. It is nutritious and slightly magical, healing you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,21
-line:0cf94573,Donut,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,23
-line:9ac94204,You eat the donut. It really hits the spot! Your Max HP increases.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,24
-line:395c269a,Box,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,26
-line:af6c21ed,You grab the box. Inside you find a weapon!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,27
-line:153d2874,"However, you really craved the donut...",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,28
-line:830d2f03,"You are filled with sadness, but mostly regret.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,29
-line:424c545e,A strange blue humanoid with a golden helm approaches you with a huge smile.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,36
-line:d47c5329,"""Hello friend! I am Cleric! Are you interested in my services?!"" the creature shouts, loudly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,37
-line:31f59449,Heal (35 gold),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,38
-line:a7c5933e,A warm golden light envelops your body and dissipates.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,39
-line:1d949aa7,The creature grins.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,40
-line:8ba49dd0,"Cleric: ""Cleric best healer. Have a good day!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,41
-line:2831f94e,Purify (25 gold),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,44
-line:be01fe39,A cold blue flame envelops your body and dissipates.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,45
-line:0450f7a0,The creature grins.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,46
-line:9260f0d7,"Cleric: ""Cleric talented. Have a good day!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,47
-line:037d4f47,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,50
-line:954d4830,"You don't trust this ""Cleric"", so you leave.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,51
-line:9909ed53,You come across an inconspicuous pedestal with a shining gold idol sitting peacefully atop. It looks incredibly valuable.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,57
-line:0f39ea24,You sure don't see any traps nearby.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,58
-line:b568e3bd,Take,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,59
-line:2358e4ca,"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,61
-line:80cd8054,You realize that the floor is slanted downwards as the boulder starts to roll towards you.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,62
-line:16fd8723,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,64
-line:acac8eba,"If there was ever an obvious trap, this would be it.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,65
-line:3a9c89cd,You decide not to interfere with objects placed upon pedestals.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,66
-line:a23ff48e,Outrun,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,72
-line:340ff3f9,RUUUUUUUUUUN!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,74
-line:d1863499,You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,75
-line:47b633ee,Smash,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,76
-line:fde73a77,"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,78
-line:6bd73d00,Hide,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,79
-line:c842599e,SQUISH!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,82
-line:5e725ee9,"The boulder flattens you a little as it passes by, but otherwise you can get out of here.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,83
-line:f545b966,Before you lies an elaborate shrine to an ancient spirit.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,88
-line:6375be11,Pray (Gain 100 gold.),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,90
-line:f2680181,"As your hand touches the shrine, gold rains from the ceiling showering you in riches.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,92
-line:645806f6,Desecrate (Gain 275 Gold. Become cursed with Regret),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,93
-line:03b3f7a4,"Each time you strike the shrine, gold pours forth again and again!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,96
-line:9583f0d3,"As you pocket the riches, something weighs heavily on you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,97
-line:2fd2f94a,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,98
-line:b9e2fe3d,You ignore the shrine.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,99
-line:818ea9bd,You walk by an eerie statue holding several masks...,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,105
-line:17beaeca,"Something behind you softly whispers, ""Stop.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,106
-line:adefa753,You swerve around to face the statue which is now facing you!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,107
-line:3bdfa024,"On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,108
-line:aac21fb4,"Eerie Man: ""Face. Let me touch? Maybe trade?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,109
-line:3cf218c3,Touch,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,110
-line:d97bdfa3,"Eerie Man: ""Compensation. Compensation.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,111
-line:4f4bd8d4,"Mechanically, he cranes out a neat stack of gold and places it into your pouch.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,112
-line:f51ad14d,"Eerie Man: ""What a nice face. Nice face.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,114
-line:632ad63a,"While he touches your face, you begin to feel your life drain out of it!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,115
-line:c0bfb2a4,"During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,117
-line:568fb5d3,His face was completely blank.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,118
-line:ecdebc4a,Trade,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,119
-line:7aeebb3d,"Eerie Man: ""For me? FOR ME? Oh yes.. Yes. Yes.. mmm...""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,120
-line:ebf304ad,"You see one of his arms flicker, and your face is in its hand! Your face has been swapped.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,121
-line:7dc303da,"Eerie Man: ""Nice face. Nice face.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,122
-line:16674724,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,124
-line:80574053,"Eerie Man: ""Stop. Stop. Stop. Stop. Stop.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,125
-line:3a0649ca,This was probably the right call.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,126
-line:7214f41e,You go upstairs. Floor {0} of {1}. Health: {2}/{3}. Gold: {4}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,10
-line:d1819080,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,12
-line:47b197f7,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,14
-line:fde09e6e,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,16
-line:6bd09919,🎲 Event,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,18
-line:facd2689,🎲 Event,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,20
-line:6cfd21fe,🛌 Rest,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,22
-line:8974e69e,🛒 Shop,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,24
-line:1f44e1e9,💰 Treasure,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,26
-line:a515e870,"You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completely covered in blood and feces, yet no animal or human remains are in sight. What's happening here?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,29
-line:3325ef07,Touch the altar,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,30
-line:90b08b99,Turn back,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,32
-line:06808cee,<b>THUMPH</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,33
-line:bcd18577,"Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completely, you hear a loud sound of wings coming over you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,34
-line:4d3b168b,"A {0} blocks your path! It looks mean. (Enemy HP: {1}, Damage: {2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,54
-line:dc26a91b,⚔️ Attack (deal {0} damage),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,55
-line:4a16ae6c,You strike the {0} down in one blow. It crumples to the floor.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,58
-line:48336fbd,You loot 12 gold from the remains.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,60
-line:de0368ca,You land a solid hit! The {0} staggers. (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,63
-line:64526153,The {0} retaliates!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,64
-line:f2626624,You are hurt. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,69
-line:51f702ba,⚔️ Press the attack,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,70
-line:c7c705cd,The {0} falls. You catch your breath.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,73
-line:7d960c54,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,75
-line:eba60b23,The {0} is still standing! It hits you again.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,77
-line:7abbb4b3,You finish it off through sheer stubbornness.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,82
-line:ec8bb3c4,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,84
-line:090274a4,🛡️ Defend and counter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,86
-line:9f3273d3,"You take a defensive stance and counter-strike, finishing it off.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,92
-line:25637a4a,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,94
-line:b3537d3d,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,95
-line:10c619a3,You turn and run. The {0} gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,96
-line:86f61ed4,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,101
-line:3ca7174d,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,103
-line:aa97103a,You raise your guard. The {0}'s blow glances off. You counter-attack.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,108
-line:3b8aafaa,The {0} collapses. Clean kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,111
-line:adbaa8dd,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,113
-line:ca51598f,The {0} is wounded but still fighting! (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,115
-line:5c615ef8,You finish it with a second strike.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,116
-line:e6305761,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,118
-line:70005016,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,120
-line:d3953488,You turn and run before it can react. It gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,121
-line:45a533ff,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,126
-line:35e2eef3,You find a dusty chest wedged behind a collapsed pillar.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,132
-line:a3d2e984,Inside: a handful of gold coins and a strange vial.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,133
-line:32cf5614,"You pocket 40 gold and drink the vial. It tastes like regret, but your wounds close slightly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,135
-line:a4ff5163,"A skeleton slumps against the wall, still clutching a coin purse.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,141
-line:41769603,You take 55 gold. The skeleton doesn't object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,143
-line:d7469174,You also find a worn whetstone. Your blade feels sharper.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,144
-line:6d1798ed,"A glowing chest sits in the center of the room, completely unguarded.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,147
-line:fb279f9a,That's suspicious.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,148
-line:58b2fb04,Open it anyway,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,149
-line:ce82fc73,Inside: 70 gold and a small healing potion.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,151
-line:74d3f5ea,No trap. Sometimes a chest is just a chest.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,156
-line:e2e3f29d,Leave it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,157
-line:73fe4d0d,You walk past. The chest watches you go.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,158
-line:e5ce4a7a,You feel like an idiot two floors later.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,159
-line:9b4c4794,You find a small alcove with a smouldering campfire. Someone was here recently.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,165
-line:0d7c40e3,Your HP: {0}/{1}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,166
-line:b72d497a,🔥 Rest (recover HP),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,167
-line:211d4e0d,"You sit by the fire, eat some rations, and tend to your wounds.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,168
-line:82882a93,You feel considerably less like dying. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,173
-line:14b82de4,🔨 Smith (spend 50 gold to upgrade damage +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,174
-line:aee9247d,You find a makeshift forge in the corner and spend time sharpening and reinforcing your weapon.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,178
-line:38d9230a,It feels noticeably deadlier. (Damage: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,179
-line:a9c49c9a,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,181
-line:3ff49bed,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,182
-line:da7d5c8d,📖 Study (spend 50 gold to upgrade block +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,188
-line:4c4d5bfa,You find some scrawled notes left by a previous climber about defensive techniques.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,192
-line:f61c5263,You practice until the fire dies. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,193
-line:602c5514,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,195
-line:c3b9318a,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,196
-line:eb7cadcd,A merchant has set up a rickety stall in the middle of the corridor. He's wearing a top hat and a smile that doesn't reach his eyes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,206
-line:512da454,"Merchant: ""Ah, a customer! Wonderful. I accept only gold. No returns. No refunds. No complaints.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,207
-line:c71da323,Your gold: {0}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,208
-line:56001cb3,💊 Healing Potion (35 gold) — restore 25 HP,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,209
-line:c0301bc4,"Merchant: ""Finest brew in the tower. Probably.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,216
-line:a7dbea96,You drink it. It tastes like copper and hope. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,217
-line:31ebede1,"Merchant: ""Come back when you have more coin, friend.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,219
-line:8bbae478,"You can't afford it. (Need 35, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,220
-line:1d8ae30f,⚔️ Weapon Upgrade (60 gold) — damage +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,222
-line:be1f8791,"Merchant: ""Enchanted. Mostly.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,226
-line:282f80e6,"Your weapon hums with a faint, slightly ominous energy. (Damage: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,227
-line:927e897f,"Merchant: ""A fine choice, if you could afford it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,229
-line:044e8e08,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,230
-line:95533198,🛡️ Shield Charm (60 gold) — block +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,232
-line:036336ef,"Merchant: ""Deflects most things. The rest builds character.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,236
-line:e6eaf18f,A small charm attaches itself to your armor. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,237
-line:70daf6f8,"Merchant: ""Perhaps next time.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,239
-line:ca8bff61,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,240
-line:5cbbf816,❤️ Max HP Upgrade (80 gold) — max HP +20,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,242
-line:ff2e9c88,"Merchant: ""Vitality. The most underrated commodity.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,247
-line:691e9bff,You feel your body expand slightly to accommodate more punishment. (Max HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,248
-line:d34f9266,"Merchant: ""A wise investment, if only you had the funds.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,250
-line:457f9511,"You can't afford it. (Need 80, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,251
-line:d4622a81,🚪 Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,253
-line:42522df6,"Merchant: ""Come again! Or don't. The tower doesn't care either way.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,254
-line:3cc6a387,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In their hand, a gruesome blade shines red.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,259
-line:aaf6a4f0,"""Uh... I always thought it was a Scythe"" you think to yourself.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,261
-line:10a7ad69,"- Stranger: I'm sorry, I'm not Death. I'm something way, way worse... little one.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,263
-line:8697aa1e,"He raises the sword in the air, and you prepare for the strike, but it never comes. Everything just fades away, and you feel numb.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,265
-line:cb058e92,"As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,3
-line:5d3589e5,"No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,5
-line:e764807c,"Creature: Why do you disturb my slumber again, pathetic worm? Do you really like dying that much?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,7
-line:7154870b,A-again?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,8
-line:e049389b,"You see the beast grinning, tasting your confusion. How many times has this happened already?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,9
-line:76793fec,"Creature: More than you can count, little one. And yet here you are.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,10
-line:93f0f88c,"I'm already here, so let's do it!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,11
-line:05c0fffb,"The beast lets out a sound that might be a laugh, if laughs could strip paint.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,12
-line:bf91f662,Creature: That's what they all say. Right before the end.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,13
-line:29a1f115,Creature: How many times do I have to teach you this lesson?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,15
-line:8a34958b,"The creature rises. The floor cracks under its weight. Your stats: HP {0}/{1}, Damage {2}, Block {3}.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,20
-line:1c0492fc,⚔️ Strike hard,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,22
-line:a6559b65,Your blow lands on something that might be a flank. The creature shudders. (Boss HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,24
-line:30659c12,It swings a tentacle at you!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,25
-line:a1782382,(Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,30
-line:374824f5,⚔️ Keep attacking,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,31
-line:83f57c5f,"You rain blows on the creature, ignoring the pain. (Boss HP: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,34
-line:15c57b28,It retaliates twice!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,35
-line:af9472b1,The creature is badly wounded. One final push!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,44
-line:39a475c6,⚔️ Finish it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,45
-line:9a311158,🛡️ Brace and strike,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,48
-line:0c01162f,🛡️ Defend and counter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,55
-line:b6501fb6,"You absorb the next blow and counter. (Boss HP: {0}, Your HP: {1}/{2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,61
-line:206018c1,The creature is staggered. Press the advantage!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,65
-line:b17da751,⚔️ Final strike,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,66
-line:274da026,🛡️ Careful finish,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,69
-line:c2c46746,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,76
-line:54f46031,"You raise your guard. The creature's first blow glances off. You counter-attack. (Boss HP: {0}, Your HP: {1}/{2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,82
-line:eea569a8,The creature is enraged. It attacks relentlessly.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,83
-line:78956edf,⚔️ Meet it head on,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,84
-line:db000a41,You're both battered. One of you will break first.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,93
-line:4d300d36,⚔️ Everything you have,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,94
-line:f76104af,🛡️ Outlast it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,101
-line:615103d8,🛡️ Keep defending,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,108
-line:f04cbc48,Your patience pays off. The creature overextends. (Boss HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,114
-line:667cbb3f,⚔️ Strike the opening,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,118
-line:aebda7d4,"You had a horrible, excruciating death, but somehow, you are still here. Your consciousness is floating in the room, un-alived.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,124
-line:388da0a3,"The creature looms over what remains of you, utterly unimpressed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,126
-line:82dca93a,Creature: Same as always. Come back when you've learned something.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,128
-line:14ecae4d,A cold hand grips your floating soul. The Gatekeeper's voice echoes from somewhere below.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,131
-line:b779cad3,"Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,132
-line:2149cda4,The world rewinds. You find yourself at the bottom of the tower again.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,133
-line:9b18c43d,The darkness takes you completely. The tower keeps its secrets.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,136
-line:0d28c34a,Perhaps someone else will try tomorrow.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,138
-line:a8c23f88,"The beast lays at your feet, completely broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,143
-line:3ef238ff,"You stand there, breathing hard, not entirely sure what just happened.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,145
-line:db7bff9f,Take a tentacle,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,147
-line:4d4bf8e8,"You wrench a tentacle free. It writhes in your hand for a moment, then goes still.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,148
-line:f71af171,It feels like it might be useful. Or cursed. Probably both.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,149
-line:612af606,(Damage +15: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,151
-line:c2bf9298,Take a feather,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,152
-line:548f95ef,You pluck one of the shimmering purple feathers. It hums faintly against your fingers.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,153
-line:eede9c76,Something about it makes you feel... harder to kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,154
-line:78ee9b01,(Max HP +25: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,157
-line:e9f32491,Drink the slime,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,158
-line:7fc323e6,You cup some of the green slime and drink it before the rational part of your brain can object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,159
-line:1cedbed0,It tastes like old coins and bad decisions. You feel strangely wealthy.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,160
-line:8addb9a7,(Gold +150: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,162
-line:308cb03e,"The room gets smaller again. On the ceiling above the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, throwing a rope down for you to climb to the next floor.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,164
-line:a6bcb749,What's happening here?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,166
-line:0529d3d7,"Raven Figure: Well done, little worm. You surprise me. Again.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,168
-line:9319d4a0,You grab the rope. The tower isn't done with you yet.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,170
+line:3e041b3d,The_Cleric,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,8
+line:845512a4,Golden_Idol,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,10
+line:126515d3,Face_Trader,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,12
+line:8378aa43,Golden_Shrine,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Act1EventsRoll,14
+line:4773bacf,"As you make your way down a long corridor you see a banana, a donut, and a box floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,20
+line:20984b9d,What do you do?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,21
+line:b6a84cea,Banana,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,22
+line:0cf94573,"You eat the banana. It is nutritious and slightly magical, healing you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,23
+line:9ac94204,Donut,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,25
+line:395c269a,You eat the donut. It really hits the spot! Your Max HP increases.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,26
+line:af6c21ed,Box,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,28
+line:153d2874,You grab the box. Inside you find a weapon!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,29
+line:830d2f03,"However, you really craved the donut...",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,30
+line:12109093,"You are filled with sadness, but mostly regret.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Big_Fish,31
+line:d47c5329,A strange blue humanoid with a golden helm approaches you with a huge smile.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,38
+line:31f59449,"""Hello friend! I am Cleric! Are you interested in my services?!"" the creature shouts, loudly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,39
+line:a7c5933e,Heal (35 gold),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,40
+line:1d949aa7,A warm golden light envelops your body and dissipates.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,41
+line:8ba49dd0,The creature grins.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,42
+line:2831f94e,"Cleric: ""Cleric best healer. Have a good day!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,43
+line:be01fe39,Purify (25 gold),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,46
+line:0450f7a0,A cold blue flame envelops your body and dissipates.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,47
+line:9260f0d7,The creature grins.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,48
+line:037d4f47,"Cleric: ""Cleric talented. Have a good day!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,49
+line:954d4830,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,52
+line:f663d506,"You don't trust this ""Cleric"", so you leave.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,The_Cleric,53
+line:0f39ea24,You come across an inconspicuous pedestal with a shining gold idol sitting peacefully atop. It looks incredibly valuable.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,59
+line:b568e3bd,You sure don't see any traps nearby.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,60
+line:2358e4ca,Take,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,61
+line:80cd8054,"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,63
+line:16fd8723,You realize that the floor is slanted downwards as the boulder starts to roll towards you.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,64
+line:acac8eba,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,66
+line:3a9c89cd,"If there was ever an obvious trap, this would be it.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,67
+line:ab81365d,You decide not to interfere with objects placed upon pedestals.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol,68
+line:340ff3f9,Outrun,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,74
+line:d1863499,RUUUUUUUUUUN!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,76
+line:47b633ee,You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,77
+line:fde73a77,Smash,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,78
+line:6bd73d00,"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,80
+line:c842599e,Hide,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,81
+line:5e725ee9,SQUISH!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,84
+line:e4235770,"The boulder flattens you a little as it passes by, but otherwise you can get out of here.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Idol_Boulder,85
+line:6375be11,Before you lies an elaborate shrine to an ancient spirit.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,90
+line:f2680181,Pray (Gain 100 gold.),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,92
+line:645806f6,"As your hand touches the shrine, gold rains from the ceiling showering you in riches.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,94
+line:03b3f7a4,Desecrate (Gain 275 Gold. Become cursed with Regret),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,95
+line:9583f0d3,"Each time you strike the shrine, gold pours forth again and again!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,98
+line:2fd2f94a,"As you pocket the riches, something weighs heavily on you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,99
+line:b9e2fe3d,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,100
+line:1a779aa3,You ignore the shrine.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Golden_Shrine,101
+line:17beaeca,You walk by an eerie statue holding several masks...,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,107
+line:adefa753,"Something behind you softly whispers, ""Stop.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,108
+line:3bdfa024,You swerve around to face the statue which is now facing you!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,109
+line:aac21fb4,"On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,110
+line:3cf218c3,"Eerie Man: ""Face. Let me touch? Maybe trade?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,111
+line:d97bdfa3,Touch,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,112
+line:4f4bd8d4,"Eerie Man: ""Compensation. Compensation.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,113
+line:f51ad14d,"Mechanically, he cranes out a neat stack of gold and places it into your pouch.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,114
+line:632ad63a,"Eerie Man: ""What a nice face. Nice face.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,116
+line:c0bfb2a4,"While he touches your face, you begin to feel your life drain out of it!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,117
+line:568fb5d3,"During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,119
+line:ecdebc4a,His face was completely blank.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,120
+line:7aeebb3d,Trade,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,121
+line:ebf304ad,"Eerie Man: ""For me? FOR ME? Oh yes.. Yes. Yes.. mmm...""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,122
+line:7dc303da,"You see one of his arms flicker, and your face is in its hand! Your face has been swapped.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,123
+line:16674724,"Eerie Man: ""Nice face. Nice face.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,124
+line:80574053,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,126
+line:3a0649ca,"Eerie Man: ""Stop. Stop. Stop. Stop. Stop.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,127
+line:ac364ebd,This was probably the right call.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1events.yarn,Face_Trader,128
+line:d1819080,You go upstairs. Floor {0} of {1}. Health: {2}/{3}. Gold: {4}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,10
+line:47b197f7,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,12
+line:fde09e6e,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,14
+line:6bd09919,⚔️ Combat,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,16
+line:facd2689,🎲 Event,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,18
+line:6cfd21fe,🎲 Event,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,20
+line:8974e69e,🛌 Rest,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,22
+line:1f44e1e9,🛒 Shop,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,24
+line:a515e870,💰 Treasure,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,26
+line:3325ef07,"You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completely covered in blood and feces, yet no animal or human remains are in sight. What's happening here?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,29
+line:90b08b99,Touch the altar,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,30
+line:06808cee,Turn back,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,32
+line:bcd18577,<b>THUMPH</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,33
+line:2ae18200,"Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completely, you hear a loud sound of wings coming over you.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Hub,34
+line:dc26a91b,"A {0} blocks your path! It looks mean. (Enemy HP: {1}, Damage: {2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,54
+line:4a16ae6c,⚔️ Attack (deal {0} damage),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,55
+line:48336fbd,You strike the {0} down in one blow. It crumples to the floor.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,58
+line:de0368ca,You loot 12 gold from the remains.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,60
+line:64526153,You land a solid hit! The {0} staggers. (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,63
+line:f2626624,The {0} retaliates!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,64
+line:51f702ba,You are hurt. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,69
+line:c7c705cd,⚔️ Press the attack,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,70
+line:7d960c54,The {0} falls. You catch your breath.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,73
+line:eba60b23,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,75
+line:7abbb4b3,The {0} is still standing! It hits you again.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,77
+line:ec8bb3c4,You finish it off through sheer stubbornness.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,82
+line:090274a4,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,84
+line:9f3273d3,🛡️ Defend and counter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,86
+line:25637a4a,"You take a defensive stance and counter-strike, finishing it off.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,92
+line:b3537d3d,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,94
+line:10c619a3,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,95
+line:86f61ed4,You turn and run. The {0} gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,96
+line:3ca7174d,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,101
+line:aa97103a,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,103
+line:3b8aafaa,You raise your guard. The {0}'s blow glances off. You counter-attack.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,108
+line:adbaa8dd,The {0} collapses. Clean kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,111
+line:ca51598f,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,113
+line:5c615ef8,The {0} is wounded but still fighting! (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,115
+line:e6305761,You finish it with a second strike.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,116
+line:70005016,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,118
+line:d3953488,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,120
+line:45a533ff,You turn and run before it can react. It gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,121
+line:fff43a66,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,126
+line:a3d2e984,You find a dusty chest wedged behind a collapsed pillar.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,132
+line:32cf5614,Inside: a handful of gold coins and a strange vial.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,133
+line:a4ff5163,"You pocket 40 gold and drink the vial. It tastes like regret, but your wounds close slightly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,135
+line:41769603,"A skeleton slumps against the wall, still clutching a coin purse.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,141
+line:d7469174,You take 55 gold. The skeleton doesn't object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,143
+line:6d1798ed,You also find a worn whetstone. Your blade feels sharper.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,144
+line:fb279f9a,"A glowing chest sits in the center of the room, completely unguarded.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,147
+line:58b2fb04,That's suspicious.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,148
+line:ce82fc73,Open it anyway,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,149
+line:74d3f5ea,Inside: 70 gold and a small healing potion.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,151
+line:e2e3f29d,No trap. Sometimes a chest is just a chest.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,156
+line:73fe4d0d,Leave it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,157
+line:e5ce4a7a,You walk past. The chest watches you go.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,158
+line:86e0d74c,You feel like an idiot two floors later.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,159
+line:0d7c40e3,You find a small alcove with a smouldering campfire. Someone was here recently.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,165
+line:b72d497a,Your HP: {0}/{1}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,166
+line:211d4e0d,🔥 Rest (recover HP),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,167
+line:82882a93,"You sit by the fire, eat some rations, and tend to your wounds.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,168
+line:14b82de4,You feel considerably less like dying. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,173
+line:aee9247d,🔨 Smith (spend 50 gold to upgrade damage +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,174
+line:38d9230a,You find a makeshift forge in the corner and spend time sharpening and reinforcing your weapon.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,178
+line:a9c49c9a,It feels noticeably deadlier. (Damage: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,179
+line:3ff49bed,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,181
+line:da7d5c8d,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,182
+line:4c4d5bfa,📖 Study (spend 50 gold to upgrade block +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,188
+line:f61c5263,You find some scrawled notes left by a previous climber about defensive techniques.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,192
+line:602c5514,You practice until the fire dies. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,193
+line:c3b9318a,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,195
+line:558936fd,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,196
+line:512da454,A merchant has set up a rickety stall in the middle of the corridor. He's wearing a top hat and a smile that doesn't reach his eyes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,206
+line:c71da323,"Merchant: ""Ah, a customer! Wonderful. I accept only gold. No returns. No refunds. No complaints.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,207
+line:56001cb3,Your gold: {0}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,208
+line:c0301bc4,💊 Healing Potion (35 gold) — restore 25 HP,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,209
+line:a7dbea96,"Merchant: ""Finest brew in the tower. Probably.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,216
+line:31ebede1,You drink it. It tastes like copper and hope. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,217
+line:8bbae478,"Merchant: ""Come back when you have more coin, friend.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,219
+line:1d8ae30f,"You can't afford it. (Need 35, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,220
+line:be1f8791,⚔️ Weapon Upgrade (60 gold) — damage +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,222
+line:282f80e6,"Merchant: ""Enchanted. Mostly.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,226
+line:927e897f,"Your weapon hums with a faint, slightly ominous energy. (Damage: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,227
+line:044e8e08,"Merchant: ""A fine choice, if you could afford it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,229
+line:95533198,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,230
+line:036336ef,🛡️ Shield Charm (60 gold) — block +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,232
+line:e6eaf18f,"Merchant: ""Deflects most things. The rest builds character.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,236
+line:70daf6f8,A small charm attaches itself to your armor. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,237
+line:ca8bff61,"Merchant: ""Perhaps next time.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,239
+line:5cbbf816,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,240
+line:ff2e9c88,❤️ Max HP Upgrade (80 gold) — max HP +20,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,242
+line:691e9bff,"Merchant: ""Vitality. The most underrated commodity.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,247
+line:d34f9266,You feel your body expand slightly to accommodate more punishment. (Max HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,248
+line:457f9511,"Merchant: ""A wise investment, if only you had the funds.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,250
+line:d4622a81,"You can't afford it. (Need 80, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,251
+line:42522df6,🚪 Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,253
+line:29f66908,"Merchant: ""Come again! Or don't. The tower doesn't care either way.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,254
+line:aaf6a4f0,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In their hand, a gruesome blade shines red.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,259
+line:10a7ad69,"""Uh... I always thought it was a Scythe"" you think to yourself.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,261
+line:8697aa1e,"- Stranger: I'm sorry, I'm not Death. I'm something way, way worse... little one.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,263
+line:2502ce80,"He raises the sword in the air, and you prepare for the strike, but it never comes. Everything just fades away, and you feel numb.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,265
+line:5d3589e5,"As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,3
+line:e764807c,"No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,5
+line:7154870b,"Creature: Why do you disturb my slumber again, pathetic worm? Do you really like dying that much?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,7
+line:e049389b,A-again?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,8
+line:76793fec,"You see the beast grinning, tasting your confusion. How many times has this happened already?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,9
+line:93f0f88c,"Creature: More than you can count, little one. And yet here you are.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,10
+line:05c0fffb,"I'm already here, so let's do it!",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,11
+line:bf91f662,"The beast lets out a sound that might be a laugh, if laughs could strip paint.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,12
+line:29a1f115,Creature: That's what they all say. Right before the end.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,13
+line:8a34958b,Creature: How many times do I have to teach you this lesson?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,15
+line:1c0492fc,"The creature rises. The floor cracks under its weight. Your stats: HP {0}/{1}, Damage {2}, Block {3}.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,20
+line:a6559b65,⚔️ Strike hard,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,22
+line:30659c12,Your blow lands on something that might be a flank. The creature shudders. (Boss HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,24
+line:a1782382,It swings a tentacle at you!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,25
+line:374824f5,(Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,30
+line:83f57c5f,⚔️ Keep attacking,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,31
+line:15c57b28,"You rain blows on the creature, ignoring the pain. (Boss HP: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,34
+line:af9472b1,It retaliates twice!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,35
+line:39a475c6,The creature is badly wounded. One final push!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,44
+line:9a311158,⚔️ Finish it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,45
+line:0c01162f,🛡️ Brace and strike,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,48
+line:b6501fb6,🛡️ Defend and counter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,55
+line:206018c1,"You absorb the next blow and counter. (Boss HP: {0}, Your HP: {1}/{2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,61
+line:b17da751,The creature is staggered. Press the advantage!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,65
+line:274da026,⚔️ Final strike,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,66
+line:c2c46746,🛡️ Careful finish,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,69
+line:54f46031,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,76
+line:eea569a8,"You raise your guard. The creature's first blow glances off. You counter-attack. (Boss HP: {0}, Your HP: {1}/{2})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,82
+line:78956edf,The creature is enraged. It attacks relentlessly.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,83
+line:db000a41,⚔️ Meet it head on,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,84
+line:4d300d36,You're both battered. One of you will break first.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,93
+line:f76104af,⚔️ Everything you have,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,94
+line:615103d8,🛡️ Outlast it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,101
+line:f04cbc48,🛡️ Keep defending,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,108
+line:667cbb3f,Your patience pays off. The creature overextends. (Boss HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,114
+line:01974a6d,⚔️ Strike the opening,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,118
+line:388da0a3,"You had a horrible, excruciating death, but somehow, you are still here. Your consciousness is floating in the room, un-alived.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,124
+line:82dca93a,"The creature looms over what remains of you, utterly unimpressed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,126
+line:14ecae4d,Creature: Same as always. Come back when you've learned something.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,128
+line:b779cad3,A cold hand grips your floating soul. The Gatekeeper's voice echoes from somewhere below.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,131
+line:2149cda4,"Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,132
+line:9b18c43d,The world rewinds. You find yourself at the bottom of the tower again.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,133
+line:0d28c34a,The darkness takes you completely. The tower keeps its secrets.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,136
+line:9c357cda,Perhaps someone else will try tomorrow.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossDie,138
+line:3ef238ff,"The beast lays at your feet, completely broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,143
+line:db7bff9f,"You stand there, breathing hard, not entirely sure what just happened.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,145
+line:4d4bf8e8,Take a tentacle,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,147
+line:f71af171,"You wrench a tentacle free. It writhes in your hand for a moment, then goes still.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,148
+line:612af606,It feels like it might be useful. Or cursed. Probably both.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,149
+line:c2bf9298,(Damage +15: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,151
+line:548f95ef,Take a feather,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,152
+line:eede9c76,You pluck one of the shimmering purple feathers. It hums faintly against your fingers.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,153
+line:78ee9b01,Something about it makes you feel... harder to kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,154
+line:e9f32491,(Max HP +25: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,157
+line:7fc323e6,Drink the slime,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,158
+line:1cedbed0,You cup some of the green slime and drink it before the rational part of your brain can object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,159
+line:8addb9a7,It tastes like old coins and bad decisions. You feel strangely wealthy.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,160
+line:308cb03e,(Gold +150: now {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,162
+line:a6bcb749,"The room gets smaller again. On the ceiling above the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, throwing a rope down for you to climb to the next floor.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,164
+line:0529d3d7,What's happening here?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,166
+line:9319d4a0,"Raven Figure: Well done, little worm. You surprise me. Again.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,168
+line:2948dd39,You grab the rope. The tower isn't done with you yet.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1BossWin,170
