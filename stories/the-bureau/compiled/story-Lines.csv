@@ -1,0 +1,367 @@
+id,text,file,node,lineNumber
+line:85c37377,"The emergency beacon crackles. Your ship's computer, in its final act before total system failure, manages to display one last message:",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,48
+line:13f37400,<b>NEAREST DOCKING FACILITY: OUTPOST OMEGA-9</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,50
+line:a9a27d99,<b>ESTIMATED ARRIVAL: 4 MINUTES</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,51
+line:3f927aee,<b>ESTIMATED SURVIVAL WITHOUT DOCKING: 3 MINUTES 47 SECONDS</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,52
+line:9c071e70,"Well. That's that, then.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,54
+line:0a371907,"As the escape pod hurtles toward the station, you have just enough time to remember who you are.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,56
+line:b066109e,<b>— WHAT SPECIES ARE YOU? —</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,58
+line:265617e9,Human,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,60
+line:b74ba879,"Ah yes. <i>Human.</i> The universe's most optimistic mistake. Your species once looked at the infinite cosmos and thought: ""We should fill out paperwork about this.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,63
+line:217baf0e,Glorbian,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,64
+line:0cea6570,"You are a Glorbian — seven feet tall, three arms, and a cultural tradition of solving problems by sitting on them until they go away. Metaphorically. Mostly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,67
+line:9ada6207,Zyx (Collective Consciousness),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,68
+line:208b6b9e,"You are a Zyx — a shimmering cloud of semi-sentient gas that has chosen, for reasons the rest of the Zyx find deeply embarrassing, to interact with solid matter.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,71
+line:b6bb6ce9,Bureaucrat-Class Android,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,72
+line:152e0877,"You are a Bureaucrat-Class Android, model BCA-7. You were built specifically to process forms. You have feelings about this. They are also forms.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,76
+line:831e0f00,Undeclared (it's complicated),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,77
+line:394f0699,Your species is... complicated. The last three governments that tried to classify you gave up and went home. This has proven surprisingly useful.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,80
+line:af7f01ee,<b>— WHAT IS YOUR GENDER? —</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,82
+line:3e62be7e,He/Him,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,84
+line:a852b909,She/Her,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,89
+line:cfb9485b,They/Them,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,94
+line:59894f2c,Prefer not to say (the form doesn't have that option),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,99
+line:e3d846b5,The form at the station will have a box for this. It will be the wrong box. This is fine.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,104
+line:75e841c2,<b>— WHAT IS YOUR OCCUPATION? —</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,106
+line:d67d255c,Freelance Courier,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,108
+line:404d222b,"You deliver things. Sometimes the things are legal. You have a very flexible definition of ""sometimes.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,112
+line:fa1c2bb2,Retired Space Pirate,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,113
+line:6c2c2cc5,You used to plunder the shipping lanes. Now you mostly plunder buffets. The instincts remain.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,117
+line:fd319355,Quantum Physicist (Theoretical),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,118
+line:6b019422,"You understand the fundamental nature of reality. This has not, so far, helped you understand why the queue at the post office is always so long.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,121
+line:8e885342,Professional Complainer,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,122
+line:18b85435,"You have filed 4,847 formal complaints across 23 star systems. You have won 3 of them. You consider this an excellent record.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,125
+line:a2e95dac,Unlicensed Wizard,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,126
+line:34d95adb,Magic exists in the universe. It is mostly used to find parking spaces and win arguments about restaurant bills.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/0_init.yarn,Start,130
+line:eacb4f3c,The pod slams into Docking Bay 7 with the grace of a shopping trolley down a staircase.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,6
+line:7cfb484b,"You are alive. Barely. The pod hisses, the door jams, and you have to kick it open with the kind of dignity that only comes from having no other options.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,8
+line:c6aa41d2,"Docking Bay 7 is enormous, grey, and lit by fluorescent tubes that flicker in a rhythm that feels almost intentional — like the station itself is trying to communicate something in morse code. The message, if there is one, appears to be: <i>abandon hope.</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,10
+line:509a46a5,A sign above the exit reads:,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,12
+line:c187f935,<b>WELCOME TO OUTPOST OMEGA-9</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,14
+line:57b7fe42,<b>Universal Transit Authority — Sector 7G</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,15
+line:34996374,"<b>""Your Journey Matters To Us (Processing Times May Vary)""</b>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,16
+line:a2a96403,"Below it, someone has added in marker: <i>""Current wait time: 3-5 business eternities.""</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,18
+line:18f86d9a,A small robot on wheels trundles toward you. It has a smiley face painted on its chassis — the paint is chipping.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,20
+line:8ec86aed,"🤖 <b>GREETER-BOT:</b> Welcome, traveler! I am GREETER-BOT, your automated welcome assistant! You look like you've had quite the journey! Can I interest you in a complimentary orientation packet?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,22
+line:2d5d0e73,It holds out a stack of papers roughly the thickness of a small novel.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,24
+line:bb6d0904,Take the orientation packet,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,26
+line:013c009d,"You take it. It is 847 pages long. Page one reads: ""This document is not a substitute for Form 1-A (Arrival Declaration). Please proceed to Window 1 to obtain Form 1-A before reading this document.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,27
+line:970c07ea,You put it in your pocket. You will never read it.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,28
+line:0611b87a,Decline politely,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,30
+line:9021bf0d,"""No thank you,"" you say.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,31
+line:75a8786d,"GREETER-BOT's smiley face somehow conveys profound sadness. ""That is... fine,"" it says. ""That is completely fine.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,32
+line:e3987f1a,Ask how long people usually wait here,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,33
+line:59c97683,"""Oh!"" says GREETER-BOT brightly. ""The average processing time for a standard transit permit is—"" It pauses. Its head rotates 360 degrees. ""—I'm not authorised to share that information. Please proceed to Window 1.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,34
+line:cff971f4,🤖 <b>GREETER-BOT:</b> Please proceed to <b>Window 1</b> to begin your transit permit application. Have a productive and regulation-compliant day!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,37
+line:6c6c156a,It wheels away. One of its wheels squeaks. Every. Single. Revolution.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,39
+line:fa5c121d,You look around the main hall of Outpost Omega-9.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,41
+line:400d1b84,"The hall is a cathedral of bureaucracy. Rows of plastic chairs, most of them occupied by beings of various species, all wearing the same expression: the thousand-yard stare of someone who has been waiting a very long time and has stopped believing it will ever end.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,45
+line:d63d1cf3,"There are several windows along the far wall, each with a sign. Most of the signs say <b>CLOSED</b>. Window 1 has a queue.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,47
+line:4720a363,"The queue has a sign too. It reads: <b>""QUEUE FOR WINDOW 1 — Please take a number.""</b>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,49
+line:d110a414,"You take a number. It is 7,743. The display above Window 1 currently reads: <b>NOW SERVING: 7,701.</b>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,51
+line:b6fb5546,This is going to take a while.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,53
+line:20cb5231,Head to the queue and wait,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,55
+line:9a9a5ba8,Explore the hall first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,Arrival,57
+line:b7ce02d8,You join the queue. The person in front of you is a Glorbian who has apparently been here long enough to have started knitting.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,65
+line:145b6646,You exchange a nod of species-solidarity.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,67
+line:826b6131,They do not acknowledge you.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,69
+line:383a68a8,Time passes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,74
+line:ae0a6fdf,More time passes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,78
+line:3f17d04f,"The number advances to 7,702.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,82
+line:a927d738,"A small child — or possibly a very old being of indeterminate age — sitting nearby leans over and whispers: ""They called my number three days ago. I went to the window. They told me I needed Form 27B/6 before they could help me. I've been looking for Form 27B/6 ever since.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,84
+line:4cae1058,"They hold up a piece of paper. ""I found it yesterday. I'm back in the queue now.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,86
+line:da9e172f,Their eyes are haunted.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,88
+line:60cf1eb6,Ask where they got Form 27B/6,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,90
+line:f6ff19c1,"""Window 4,"" they say. ""But Window 4 is only open on Tuesdays.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,91
+line:556a7d5f,"""What day is it today?"" you ask.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,92
+line:c35a7a28,"They stare at you. ""Nobody knows,"" they whisper.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,93
+line:790b73b1,Offer them a sympathetic nod and focus on waiting,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,95
+line:ef3b74c6,"You nod. They nod back. You are bonded now, in the way that only shared suffering can bond strangers.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,96
+line:7e26cb56,Decide this queue is not for you,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,QueueWait,97
+line:371432dd,You have been waiting for what feels like — and may actually be — several geological epochs.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,111
+line:5cb07623,Something inside you breaks. Not dramatically. Not with a crack or a bang. More like the quiet sound of a very tired person sitting down on the floor and refusing to get up.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,114
+line:ca807154,You have run out of patience entirely.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,115
+line:70d178cd,You take a deep breath. You remind yourself that you are a {0} and you have survived worse.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,118
+line:e6e17fba,Technically. Probably.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,120
+line:45741b24,Probably.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,122
+line:d3441c53,You persevere.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/1_arrival.yarn,PatientSnap,124
+line:252df67a,<b>— DAY {0} AT OUTPOST OMEGA-9 —</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,15
+line:b31df10d,<b>Credits:</b> {0} | <b>Patience:</b> {1} | <b>Stamps:</b> {2},/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,16
+line:22004e9d,<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✓ | <b>Transit Permit:</b> ✓,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,18
+line:b43049ea,<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✓ | <b>Transit Permit:</b> ✗,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,20
+line:51b98e8a,<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✗ | <b>Transit Permit:</b> ✗,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,22
+line:c78989fd,<b>Form 27B/6:</b> ✗ | <b>Form Ω:</b> ✗ | <b>Transit Permit:</b> ✗,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,24
+line:7dd88064,What do you do?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,27
+line:ebe88713,Go to Window 1 (the main queue),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,29
+line:487de38d,Talk to the other waiting travelers,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,31
+line:de4de4fa,Visit the vending machine,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,33
+line:641ced63,Check the notice board,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,35
+line:f22cea14,Try to find Window 4 (Form 27B/6),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,37
+line:63315584,Submit your forms,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,39
+line:f50152f3,Look for the Station Director,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,41
+line:42612ee6,Attempt to leave without a permit,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MainHub,43
+line:1872190d,You approach Window 1. The clerk behind the glass is a being of indeterminate age with the expression of someone who has seen everything and found all of it disappointing.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,51
+line:a2231094,The nameplate reads: <b>CLERK MORBIDIUS</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,53
+line:341317e3,"Behind {0}, a motivational poster reads: <i>""You Don't Have To Be Miserable To Work Here, But It Helps.""</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,55
+line:9786737d,Clerk Morbidius looks at you with the enthusiasm of a wet sock.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,59
+line:01b6740a,👔 <b>CLERK MORBIDIUS:</b> Next. State your business.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,60
+line:bbe77d93,"""I need a transit permit.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,61
+line:2dd77ae4,👔 <b>CLERK MORBIDIUS:</b> Of course you do. Everyone needs a transit permit. Do you have Form 1-A?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,62
+line:bccac574,"""What's Form 1-A?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,63
+line:2afac203,👔 <b>CLERK MORBIDIUS:</b> It's the Arrival Declaration. You should have received it upon arrival.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,64
+line:cf730563,"""Nobody gave me one.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,65
+line:59430214,👔 <b>CLERK MORBIDIUS:</b> That is not my department. Please proceed to Window 2 for Form 1-A.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,66
+line:e3120b8d,A pause.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,67
+line:75220cfa,👔 <b>CLERK MORBIDIUS:</b> Window 2 is closed.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,68
+line:d6b76864,"""When does it open?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,69
+line:40876f13,👔 <b>CLERK MORBIDIUS:</b> When it opens.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,70
+line:fad6668a,"""I have it right here."" (bluff)",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,73
+line:6ce661fd,You produce the orientation packet and hold it up with confidence.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,75
+line:fdfbde6d,Clerk Morbidius squints. Looks at the packet. Looks at you. Looks back at the packet.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,76
+line:6bcbd91a,👔 <b>CLERK MORBIDIUS:</b> ...This is an orientation packet.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,77
+line:0c202848,"""Is it not also Form 1-A?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,78
+line:9a102f3f,"👔 <b>CLERK MORBIDIUS:</b> ...It is not. But I appreciate the creativity. Next, you'll need Form 27B/6. Window 4.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,79
+line:204126a6,You have earned a stamp of grudging respect. Metaphorically.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,81
+line:b67121d1,👔 <b>CLERK MORBIDIUS:</b> You again. Do you have Form 27B/6?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,84
+line:15e4454f,"""Yes! Right here!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,86
+line:83d44238,Clerk Morbidius takes the form. Examines it. Turns it over. Holds it up to the light.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,87
+line:39854ba1,"👔 <b>CLERK MORBIDIUS:</b> This is Form 27B/6, revision 4. We require revision 5.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,88
+line:afb54cd6,"""Where do I get revision 5?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,89
+line:3ea8f346,👔 <b>CLERK MORBIDIUS:</b> Window 4.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,90
+line:a898f431,"""Window 4 is never open!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,91
+line:4d113351,👔 <b>CLERK MORBIDIUS:</b> It was open last Tuesday.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,92
+line:db213426,"""Is there any other way?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,95
+line:61703dbf,You think carefully. The revision number is just a number. The form is otherwise identical.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,97
+line:f7403ac8,"""What if I just... write a 5 over the 4?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,98
+line:54d55e56,Clerk Morbidius stares at you for a very long time.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,99
+line:c2e55921,👔 <b>CLERK MORBIDIUS:</b> ...I did not see that. You will also need Form Omega. Speak to the Supervisor.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,100
+line:78b450b8,"""I have Form 27B/6 AND Form Omega.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,105
+line:ee8457cf,Clerk Morbidius takes both forms. Examines them with the thoroughness of someone who has nothing else to live for.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,106
+line:7f99e85f,👔 <b>CLERK MORBIDIUS:</b> These appear to be... in order.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,107
+line:e9a9ef28,A long pause. The fluorescent light flickers.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,108
+line:8a87721e,👔 <b>CLERK MORBIDIUS:</b> You will need one more thing. The Director's signature.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,109
+line:1cb77569,"""Of course I will.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,110
+line:a6e67cf0,"""Not yet. I'm working on it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,114
+line:30d67b87,👔 <b>CLERK MORBIDIUS:</b> We'll be here.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,115
+line:93431f19,"""This system is absurd.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,118
+line:0573186e,"You launch into a detailed, well-structured, professionally-delivered complaint.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,119
+line:bf2211f7,"Clerk Morbidius listens. Actually listens. When you finish, there is a long silence.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,120
+line:29121680,"👔 <b>CLERK MORBIDIUS:</b> ...You're not wrong. Here. Take this. It won't help, but it's something.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,121
+line:b80fa910,"{0} slides a small card under the glass. It reads: Complaint Acknowledged, Reference 44821-B.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,Window1,122
+line:26052bf3,The waiting area is a rich ecosystem of despair. You scan the room for someone worth talking to.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,136
+line:c38cec93,The knitting Glorbian,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,139
+line:55bcebe4,The haunted child/elder,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,141
+line:efede27d,The Zyx cloud in the corner,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,143
+line:79dde50a,The being who appears to be asleep but is definitely not asleep,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,145
+line:da488194,The one who is very aggressively reading the regulations manual,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,147
+line:4c7886e3,The one who has set up what appears to be a small camp,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,TalkTravelers,149
+line:bcd3ceaf,"The Glorbian looks up from {0} knitting. {1} is enormous, with three arms — two of which are knitting, and one of which is holding a cup of something that smells like engine coolant.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,158
+line:2ae3c9d8,🟢 <b>GLORB:</b> Ah. New arrival. Sit down. You look like you still have hope. We'll fix that.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,160
+line:bbfe7648,{0} introduces {1}self as Glorb. {2} has been here for eleven months.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,162
+line:2dce713f,"🟢 <b>GLORB:</b> The trick is Form Omega. Nobody tells you about Form Omega. You have to find the Supervisor — not the clerk, the <i>Supervisor</i> — and ask specifically. Don't say ""form."" Say ""the document."" They respond better to ""the document.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,164
+line:4a25806d,"""Why are you still here if you know all this?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,166
+line:dc15871a,"🟢 <b>GLORB:</b> I got my permit six months ago. I just... haven't left. It's peaceful here, in a way. Also my ship needs repairs and the repair bay requires a Form 7-C.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,167
+line:66448e83,"""Thank you. That's genuinely useful.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,170
+line:f07489f4,🟢 <b>GLORB:</b> Don't thank me. Just get out. Get out for both of us.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,171
+line:53e1ed6a,"""What are you knitting?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,174
+line:c5d1ea1d,🟢 <b>GLORB:</b> A complaint. In textile form. I find it more satisfying than paper.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,175
+line:7f80e384,{0} holds up what appears to be a very angry-looking scarf.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetGlorb,176
+line:ce2db753,"The Zyx shimmers in the corner. It is, technically, a cloud of gas, but it has arranged itself into a vaguely humanoid shape out of what you can only assume is politeness.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,186
+line:5f3008c3,🌫️ <b>ZYX-7 (FRAGMENT):</b> Oh. A solid. How quaint. We have been observing your situation. The collective finds it... instructive.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,188
+line:c9000fb4,"""Instructive how?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,190
+line:2c89c8d4,"🌫️ <b>ZYX-7:</b> You are attempting to navigate a system designed not to be navigated. This is, statistically, the most common activity in the known universe. The second most common is complaining about it.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,191
+line:bab9cfa3,"""Can you help me?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,193
+line:00e8c63a,"🌫️ <b>ZYX-7:</b> We are a collective consciousness. We have infiltrated the station's administrative network. We could, theoretically, insert your permit application directly into the system.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,194
+line:96d8c14d,"""Please do that.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,195
+line:354da5d3,"🌫️ <b>ZYX-7:</b> We could. However, we would require something in return. A memory. Something small. You would not miss it.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,196
+line:a37da2a4,"""Fine. Take it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,197
+line:192cab3d,"The Zyx shimmers. You feel a brief, strange absence — like forgetting the name of a song you used to love.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,200
+line:8f1cac4a,🌫️ <b>ZYX-7:</b> Done. Form Omega is now in the system under your name. You are welcome. Also: you once had a pet. It was very happy.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,201
+line:1e0113da,You will never know what kind of pet it was.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,202
+line:883114ad,"""Actually, never mind.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,203
+line:e3955053,🌫️ <b>ZYX-7:</b> Wise. Probably.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,204
+line:75a55724,"""What are you waiting for?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,206
+line:cff45ebd,🌫️ <b>ZYX-7:</b> We are not waiting. We are <i>observing.</i> There is a difference. The difference is that we are enjoying ourselves.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetZyx,207
+line:7bd26b5d,The small/old being looks at you with eyes that have seen too much queuing.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,214
+line:d8470fc3,👁️ <b>HAUNTED ONE:</b> You're new. You still think there's a way out.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,216
+line:4e7708b4,"""Isn't there?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,218
+line:f426012d,"👁️ <b>HAUNTED ONE:</b> There is. But it requires Form 27B/6, revision 5. And Form Omega. And the Director's signature. And a Tuesday.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,219
+line:6216065a,"""What happens on Tuesdays?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,220
+line:f30bb9ca,👁️ <b>HAUNTED ONE:</b> Window 4 opens. For exactly one hour. At a time that is never announced in advance.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,221
+line:653bbebd,"""How long have you been here?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,223
+line:80b279dd,"👁️ <b>HAUNTED ONE:</b> I stopped counting. My number is 7,744. They are currently serving 7,702. I have done the math. I have done it many times. The math does not improve with repetition.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,224
+line:16827eaa,"""I'll get out. I promise.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,225
+line:acd37733,👁️ <b>HAUNTED ONE:</b> They all say that.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,226
+line:3ae37044,A pause.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,227
+line:997614da,👁️ <b>HAUNTED ONE:</b> I said that.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetHauntedOne,228
+line:f2b5b9d3,"You approach the being who appears to be asleep. Up close, you can see their eyes are open. They are staring at the ceiling with the focused intensity of someone who has transcended the concept of waiting.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,236
+line:48e4b04a,"You sit next to them. After a while, without looking at you, they speak.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,238
+line:ded4b73d,🧘 <b>TRANSCENDENT ONE:</b> The permit is not the destination. The permit is the journey. The journey is the permit.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,240
+line:4fc908ad,"""That's... profound?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,242
+line:d9f90fda,🧘 <b>TRANSCENDENT ONE:</b> I've been here long enough to become a philosopher. Before that I was an accountant. I preferred accounting.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,243
+line:6d445770,"""Do you know anything useful about getting out?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,245
+line:fb745007,🧘 <b>TRANSCENDENT ONE:</b> Bribe the clerk. Not with credits. With <i>sincerity.</i> Tell Morbidius something true. Something real. They have not heard something real in a very long time.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,246
+line:4125599e,Say nothing and just sit with them for a while,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,248
+line:d7155ee9,"You sit in companionable silence. It is, surprisingly, the most peaceful moment you've had since arriving.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetSleeper,249
+line:192394c9,The being is reading a document so thick it requires a small stand. They are highlighting things. They have run out of one colour of highlighter and started using another. There are many colours.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,257
+line:8f1393be,"📋 <b>REGULATIONS READER:</b> Did you know that under Subsection 7, Paragraph 3, Clause B of the Universal Transit Code, any traveler who has been waiting more than 72 hours is entitled to a complimentary beverage?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,259
+line:35429a27,"""I did not know that.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,261
+line:a3729d50,📋 <b>REGULATIONS READER:</b> Neither does the vending machine. I've tried to explain it. The vending machine is not receptive to legal arguments.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,262
+line:326f22c0,"""Have you found any actual loopholes?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,264
+line:a45f25b7,"📋 <b>REGULATIONS READER:</b> Actually... yes. Under the Emergency Provisions Act, Section 12, any traveler whose vessel was destroyed in transit may apply for an Emergency Transit Waiver. It bypasses the normal queue entirely.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,266
+line:41d6e2d7,"""My ship was destroyed! That's me!""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,267
+line:d7e6e5a0,📋 <b>REGULATIONS READER:</b> You'll need to file a Vessel Destruction Report first. Form VD-1. Window 6.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,268
+line:6db7ec39,"""Is Window 6 open?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,269
+line:fb87eb4e,"📋 <b>REGULATIONS READER:</b> Surprisingly, yes. It's the only window that's always open. Nobody ever goes there because nobody knows about it.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,270
+line:58128fd0,"📋 <b>REGULATIONS READER:</b> I'm working on it. I've been working on it for four months. I'm on page 1,203.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetRegulationsReader,275
+line:a445f82b,This being has set up a proper camp. There is a small tent. A camp stove. A washing line with socks on it. A small potted plant. A framed photograph.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,286
+line:1e14f1b2,🏕️ <b>CAMPER:</b> Welcome to my home. I've been here two years. I stopped trying to leave after the first six months. Now I run a small economy.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,288
+line:8824f6c5,"They gesture around. You notice that several other waiting travelers are using their camp stove, and there appears to be a small barter system operating.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,290
+line:19394955,"""You run an economy?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,292
+line:8f094e22,🏕️ <b>CAMPER:</b> Someone has to. The vending machine charges 15 credits for a nutrient bar. I charge 8. I source them from the supply closet on Level 3. The supply closet is technically unlocked.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,293
+line:e8e2bf70,You buy several nutrient bars at a reasonable price.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,295
+line:7ed2b807,"""Can you help me get out?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,296
+line:c483b19e,🏕️ <b>CAMPER:</b> I could. But why would I? You leaving doesn't help me. Unless...,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,297
+line:52b3b6e9,"""Unless what?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,298
+line:f126d277,"🏕️ <b>CAMPER:</b> Bring me a Form 7-C. If I can get my ship repaired, I might consider leaving too. And I know where the Director's private office is.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,299
+line:6716d500,"""Don't you miss the outside?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,302
+line:dd47dc99,"🏕️ <b>CAMPER:</b> Every day. But out there, I was nobody. In here, I am the person with the camp stove. I have <i>purpose.</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,MeetCamper,303
+line:7a1dd3c0,The vending machine is a monument to corporate optimism. It offers:,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,313
+line:eb006c50,- Nutrient Bar (Original Flavour): 15 credits,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,314
+line:7d306b27,- Nutrient Bar (Grey Flavour): 15 credits,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,315
+line:98b9ac47,- Something That Might Be Coffee: 10 credits,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,316
+line:0e89ab30,- Motivational Pamphlet: 5 credits,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,317
+line:b4d8a2a9,- Form 1-A (Arrival Declaration): 20 credits,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,318
+line:22e8a5de,Wait. That last one.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,320
+line:817dc140,Buy a Nutrient Bar (15 credits),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,323
+line:174dc637,"You eat the nutrient bar. It tastes of nothing, which is somehow worse than tasting bad. Your patience is marginally restored.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,326
+line:ad1ccfae,Buy Something That Might Be Coffee (10 credits),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,328
+line:3b2cc8d9,"It is not coffee. It is not not-coffee. It exists in a quantum state of beverage uncertainty. It is, however, warm, and warmth is warmth.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,331
+line:aa317749,Buy Form 1-A from the vending machine (20 credits),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,333
+line:3c01703e,"You buy Form 1-A from the vending machine. It dispenses with a cheerful beep. The form is pre-filled with the name ""VALUED CUSTOMER."" You cross it out and write your own name. This feels like a victory.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,336
+line:5f2fed08,Try to get a refund for a previous purchase,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,338
+line:c91fea7f,You press the refund button. Nothing happens. You press it again. You press it seventeen more times with increasing conviction.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,339
+line:734ee3e6,"The machine dispenses a Motivational Pamphlet. It reads: <i>""Every setback is a setup for a comeback!""</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,340
+line:e57ee491,Kick the machine,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,344
+line:46eb800f,"You kick the machine with considerable force. It shudders. Several items fall. You collect: 2 nutrient bars, a coffee, and what appears to be a small rubber stamp.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,347
+line:d0db8778,The machine now displays: <b>OUT OF ORDER</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,351
+line:6a8a8ee1,Several waiting travelers look at you. Some with horror. Most with respect.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,352
+line:fcba8996,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,354
+line:6da73606,The vending machine is broken. You broke it. The OUT OF ORDER sign blinks at you with what feels like accusation.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,357
+line:fb973171,Several travelers are still trying to use it. Hope is a powerful thing.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,358
+line:1e1ef611,Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,VendingMachine,359
+line:91796d32,"The notice board is covered in layers of notices, some so old they have become archaeological. You read through them.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,368
+line:2b2864ab,<b>NOTICE:</b> Window 4 hours have been updated. New hours: See Window 4 for details.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,370
+line:bd1863dc,<b>NOTICE:</b> Form 27B/6 has been updated to revision 5. Revision 4 forms will no longer be accepted after [DATE REDACTED].,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,372
+line:1e8d0742,<b>NOTICE:</b> The Director will be holding open office hours. Date: [DATE REDACTED]. Location: [LOCATION REDACTED].,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,374
+line:88bd0035,<b>NOTICE:</b> Lost and found items may be claimed at Window 9. Window 9 location: See Window 9 for details.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,376
+line:32ec09ac,<b>NOTICE:</b> Traveler [NAME REDACTED] — your application has been flagged for review. Please do not be alarmed. This is routine. Please also do not ask what it means. This is also routine.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,378
+line:a4dc0edb,You stare at that last notice for a long time.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,380
+line:35c1b14b,That last notice is about me. I should be alarmed.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,382
+line:a3f1b63c,That last notice is about me. I choose not to be alarmed.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,385
+line:c41a476e,Look for anything actually useful,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,388
+line:522a4019,"Behind a notice about the staff holiday party (year unknown), you find a small handwritten note: <i>""Window 6 — always open. VD-1 forms. Tell no one.""</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,390
+line:e87b4980,You find nothing useful. There is a notice about a lost umbrella. It has been there long enough to have its own notices attached to it.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,NoticeBoard,395
+line:18d15c5b,You go looking for Window 4.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,402
+line:bb4438c5,"Window 4 is not where the signs say it is. The signs say it is on Level 2, Section B. Level 2, Section B contains a storage room, a broken lift, and a motivational mural that someone has partially defaced to read: <i>""YOU CAN DO IT (but you probably won't).""</i>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,404
+line:2d743fb2,You ask three different people where Window 4 is. You receive three different answers.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,406
+line:9725362b,"By a combination of persistence and luck, you find Window 4. It is behind a door marked ""MAINTENANCE — NO ENTRY."" The window is open. There is nobody behind it, but there is a stack of forms.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,414
+line:0115315c,"You take one. It is Form 27B/6, revision 5.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,415
+line:90088ecc,You feel the particular joy of a person who has found a thing that should not have been this hard to find.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,418
+line:063889bb,"You find a door that might be Window 4. It is locked. A sign says: ""BACK IN 5 MINUTES."" The sign is yellowed with age.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,421
+line:e3b14edb,You get lost. You end up in a part of the station you've never seen before. The lights are different here — warmer. There is a smell of something cooking.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,425
+line:758149ac,A being you've never seen before looks up at you.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,426
+line:cfd04035,🍳 <b>UNKNOWN BEING:</b> You look lost. Are you lost?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,427
+line:59e04742,"""Yes.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,428
+line:fa7523dc,🍳 <b>UNKNOWN BEING:</b> Everyone who ends up here is lost. Sit down. Have something to eat.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,429
+line:6c4524ab,"You eat something warm and unidentifiable and wonderful. You feel, briefly, like a person.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,432
+line:d6142d32,"""No. I'm fine.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,434
+line:40242a45,You are not fine. You wander back to the main hall.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindWindow4,435
+line:4053fbae,"Armed with the knowledge of where the Director's office is (Level 5, behind the door marked ""ABSOLUTELY NOT THE DIRECTOR'S OFFICE""), you make your way up.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,444
+line:d663fcd9,The office is surprisingly pleasant. There are plants. Real ones. There is a window with an actual view of space.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,446
+line:bdc7b827,Behind the desk sits a being of considerable age and considerable tiredness. The nameplate reads: <b>DIRECTOR VOSS</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,448
+line:2bf7bf50,🎩 <b>DIRECTOR VOSS:</b> Ah. A traveler. Sit down. I don't get many visitors who aren't here to complain.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,450
+line:91a6b6c9,"""I'm here to complain.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,452
+line:0796b1be,🎩 <b>DIRECTOR VOSS:</b> Of course you are. Go ahead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,453
+line:a403d520,"You deliver your complaint. It is comprehensive. It is devastating. It is, frankly, a masterpiece of the form.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,454
+line:3233d257,"Director Voss listens to every word. When you finish, {0} is quiet for a long moment.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,455
+line:8862dbce,🎩 <b>DIRECTOR VOSS:</b> You know... you're right. All of it. Every word. I've known it for years.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,456
+line:1e52dcb9,{0} opens a drawer and produces a form. It already has a signature on it.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,457
+line:8f4f6329,🎩 <b>DIRECTOR VOSS:</b> Take this. It's a pre-signed Director's Authorisation. I keep them for... occasions like this.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,458
+line:197f645e,"""I need your signature on my transit permit.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,462
+line:fcf6a33e,🎩 <b>DIRECTOR VOSS:</b> Do you have Form 27B/6 and Form Omega?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,464
+line:6ac6a449,"""Yes. Both of them.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,466
+line:d097add0,🎩 <b>DIRECTOR VOSS:</b> Then I don't see why not.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,467
+line:46a7aaa7,{0} signs. The signature is surprisingly cheerful.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,468
+line:e532ce39,"🎩 <b>DIRECTOR VOSS:</b> You know, most people give up long before they get here. You should be proud.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,469
+line:7302c94e,"""Not yet.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,473
+line:c953c0d7,🎩 <b>DIRECTOR VOSS:</b> Come back when you do. I'll be here. I'm always here.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,474
+line:5f63c7a0,{0} looks out the window at the stars.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,475
+line:ce7e7830,"🎩 <b>DIRECTOR VOSS:</b> I've been here twenty-three years. I came for a transit permit too, you know.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,476
+line:584e7f47,"""Why is this system so broken?""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,480
+line:8227a3ee,"🎩 <b>DIRECTOR VOSS:</b> It wasn't always. It was designed by people who believed in it. Then those people left, and the people who replaced them believed in the system rather than the purpose. And then the system became the purpose.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,481
+line:1417a499,{0} pauses.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,482
+line:ae46ad00,🎩 <b>DIRECTOR VOSS:</b> I've been meaning to fix it. I have a form for that somewhere.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FindDirector,483
+line:3644cf91,You approach Window 1 with both forms. Clerk Morbidius looks up.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,493
+line:95d1ab0f,👔 <b>CLERK MORBIDIUS:</b> Form 27B/6?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,495
+line:03e1ac78,"""Revision 5,"" you confirm.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,497
+line:b9b0a5e1,👔 <b>CLERK MORBIDIUS:</b> Form Omega?,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,499
+line:2f80a296,"""Right here.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,501
+line:be9d1d06,"Clerk Morbidius takes both forms. Examines them. Stamps them. The stamp makes a sound like a small, satisfied full stop.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,503
+line:28ad1a71,👔 <b>CLERK MORBIDIUS:</b> You'll need the Director's signature.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,505
+line:cd24dd11,"""I know. I'm working on it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,FinalSubmission,507
+line:0613fd18,"You have had enough. You walk toward the docking bay with the purposeful stride of someone who has decided that rules are, at best, suggestions.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,515
+line:bc42f481,A security drone materialises in front of you.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,517
+line:2a72f3f6,🤖 <b>SECURITY DRONE:</b> HALT. TRANSIT PERMIT REQUIRED FOR DEPARTURE. PLEASE PRESENT YOUR TRANSIT PERMIT.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,519
+line:89e79768,You are a cloud of gas. You flow around the drone. The drone scans the space where you were.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,527
+line:1fd7901f,🤖 <b>SECURITY DRONE:</b> ENTITY NOT DETECTED. RESUMING PATROL.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,528
+line:a5869986,"You cast a spell. It is not a very good spell — you are unlicensed, after all — but it is enough to confuse the drone for approximately forty-five seconds.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,531
+line:33b69ef1,The drone is not impressed. You are escorted back to the waiting area.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,535
+line:a2ab2161,🤖 <b>SECURITY DRONE:</b> PLEASE RETURN TO THE QUEUE. HAVE A REGULATION-COMPLIANT DAY.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/2_hub.yarn,AttemptEscape,536
+line:c10d2f5a,"You stand at the departure gate. In your hand is a transit permit. It is stamped, signed, countersigned, and bears the official seal of the Universal Transit Authority.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,6
+line:a6e6de08,It took {0} days.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,8
+line:30d6d97f,Clerk Morbidius is at the gate. Of course {0} is. {1} takes your permit. Examines it. Turns it over. Holds it up to the light.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,10
+line:8a87d0e6,👔 <b>CLERK MORBIDIUS:</b> ...This appears to be in order.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,12
+line:1cb7d791,A pause that contains multitudes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,14
+line:bf22b30f,👔 <b>CLERK MORBIDIUS:</b> You may proceed.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,16
+line:2912b478,"You walk through the gate. The airlock hisses open. Beyond it: a ship. A borrowed one, arranged through means you'd rather not think about too hard. Beyond the ship: space. Infinite, indifferent, gloriously bureaucracy-free space.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,18
+line:9343bde1,You look back once.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,20
+line:0573ba96,Glorb is still knitting. {0} raises one of {1} three arms in farewell.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,23
+line:946e0506,"The Zyx shimmers. You feel a brief warmth that might be affection, or might be static electricity.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,26
+line:025e0271,The Haunted One watches you go. Their expression does not change. But something in their eyes does — something small and stubborn and not quite extinguished.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,29
+line:e7d7c511,You step through the airlock.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,31
+line:71e7c266,<b>THE END</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,33
+line:cbb6cbff,<i>You escaped Outpost Omega-9 in {0} days.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,35
+line:5d86cc88,<i>Patience remaining: {0}</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,36
+line:fe13a816,<i>Credits remaining: {0}</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,37
+line:6823af61,<i>⭐ SPEED RUN: You navigated the bureaucracy with remarkable efficiency. Or luck. Probably luck.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,40
+line:d272a6f8,<i>🏅 VETERAN: You endured. That's not nothing.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,42
+line:4442a18f,<i>📋 INCIDENT ON RECORD: Your file has been flagged. This will follow you. Probably.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,45
+line:d55f1e1f,<i>🤝 SOCIAL BUTTERFLY: You made friends in the most unlikely of waiting rooms.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingSuccess,48
+line:d52cf6d2,You are out.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,57
+line:b6026be4,"You don't entirely know how. There was a drone, and then there wasn't, and then there was a corridor, and then there was a docking bay, and then there was a ship that someone had left running — <i>who leaves a ship running?</i> — and then there was the void of space, which has never looked so beautiful.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,59
+line:20326c93,No permit. No stamp. No Form 27B/6.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,61
+line:9a63650a,"Just you, a borrowed ship, and the quiet certainty that somewhere, in a filing system that will outlast the stars, there is a record of your departure marked: <b>UNAUTHORISED.</b>",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,63
+line:0c53627d,You find you don't mind.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,65
+line:afc606e3,"The collective is pleased. Several fragments of the Zyx that had been observing Outpost Omega-9 detach and follow you into the void. You have, apparently, adopted a cloud.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,68
+line:39f60194,Your spell fades. You make a note to get your licence. You will not get your licence.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,70
+line:83a7080d,<b>THE END</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,73
+line:15970f7a,<i>You escaped without a permit. Technically illegal. Entirely worth it.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,75
+line:848ab0ea,<i>Days spent: {0}</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,76
+line:12bab79d,<i>🏃 RULE-BREAKER: Some systems are not meant to be navigated. They are meant to be circumvented.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingEscape,78
+line:b7f1846b,You sit down.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,85
+line:21c1831c,Not temporarily. Not to rest. You sit down in the way that means something has ended.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,87
+line:9b908a85,The plastic chair accepts you with the indifference of furniture that has held many people in many states of defeat.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,89
+line:0da08df2,"You look at the number in your hand. 7,743. The display reads: NOW SERVING 7,709.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,91
+line:ae35e96c,You look at the other waiting travelers. They look back. Nobody says anything. There is nothing to say.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,93
+line:3805ee1b,GREETER-BOT trundles past. Its smiley face flickers.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,95
+line:8254e782,🤖 <b>GREETER-BOT:</b> You look like you could use a complimentary orientation packet!,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,97
+line:1464e0f5,You take it.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,99
+line:85795f65,It is 847 pages long.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,101
+line:13495812,You open to page one.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,103
+line:74a2a940,You begin to read.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,105
+line:e292ae37,<b>THE END</b>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,107
+line:58c3a7ae,<i>You ran out of patience. It happens to the best of us.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,109
+line:cef3a0d9,<i>Days spent: {0}</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,110
+line:6d66c447,<i>💺 PERMANENT RESIDENT: Outpost Omega-9 has a way of keeping people. You are people.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,112
+line:fb56c330,<i>Tip for next time: Talk to the travelers. They know things. Also: the vending machine sells Form 1-A.</i>,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-bureau/source/3_endings.yarn,EndingExhaustion,114
