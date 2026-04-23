@@ -1,0 +1,115 @@
+title: EndingSuccess
+---
+<<send_picture departure_gate.png "Departure Gate — Outpost Omega-9">>
+<<send_audio departure_fanfare.wav "Departure">>
+
+You stand at the departure gate. In your hand is a transit permit. It is stamped, signed, countersigned, and bears the official seal of the Universal Transit Authority.
+
+It took {$days_waiting} days.
+
+Clerk Morbidius is at the gate. Of course {$player_pronoun_they} is. {$player_pronoun_they} takes your permit. Examines it. Turns it over. Holds it up to the light.
+
+🧑‍💼 <b>CLERK MORBIDIUS:</b> ...This appears to be in order.
+
+A pause that contains multitudes.
+
+🧑‍💼 <b>CLERK MORBIDIUS:</b> You may proceed.
+
+You walk through the gate. The airlock hisses open. Beyond it: a ship. A borrowed one, arranged through means you'd rather not think about too hard. Beyond the ship: space. Infinite, indifferent, gloriously bureaucracy-free space.
+
+You look back once.
+
+<<if $met_glorb>>
+Glorb is still knitting. {$player_pronoun_they} raises one of {$player_pronoun_their} three arms in farewell.
+<<endif>>
+<<if $met_zyx>>
+The Zyx shimmers. You feel a brief warmth that might be affection, or might be static electricity.
+<<endif>>
+
+The Haunted One watches you go. Their expression does not change. But something in their eyes does — something small and stubborn and not quite extinguished.
+
+You step through the airlock.
+
+<b>THE END</b>
+
+<i>You escaped Outpost Omega-9 in {$days_waiting} days.</i>
+<i>Patience remaining: {$patience}</i>
+<i>Credits remaining: {$credits}</i>
+
+<<if $days_waiting <= 5>>
+<i>⭐ SPEED RUN: You navigated the bureaucracy with remarkable efficiency. Or luck. Probably luck.</i>
+<<elseif $days_waiting >= 10>>
+<i>🏅 VETERAN: You endured. That's not nothing.</i>
+<<endif>>
+<<if $caused_incident>>
+<i>📋 INCIDENT ON RECORD: Your file has been flagged. This will follow you. Probably.</i>
+<<endif>>
+<<if $met_glorb and $met_zyx>>
+<i>🤝 SOCIAL BUTTERFLY: You made friends in the most unlikely of waiting rooms.</i>
+<<endif>>
+===
+
+title: EndingEscape
+---
+<<send_picture space_escape.png "The Open Stars">>
+<<send_audio departure_fanfare.wav "Freedom">>
+
+You are out.
+
+You don't entirely know how. There was a drone, and then there wasn't, and then there was a corridor, and then there was a docking bay, and then there was a ship that someone had left running — <i>who leaves a ship running?</i> — and then there was the void of space, which has never looked so beautiful.
+
+No permit. No stamp. No Form 27B/6.
+
+Just you, a borrowed ship, and the quiet certainty that somewhere, in a filing system that will outlast the stars, there is a record of your departure marked: <b>UNAUTHORISED.</b>
+
+You find you don't mind.
+
+<<if $player_species == "Zyx">>
+The collective is pleased. Several fragments of the Zyx that had been observing Outpost Omega-9 detach and follow you into the void. You have, apparently, adopted a cloud.
+<<elseif $player_class == "Wizard">>
+Your spell fades. You make a note to get your licence. You will not get your licence.
+<<endif>>
+
+<b>THE END</b>
+
+<i>You escaped without a permit. Technically illegal. Entirely worth it.</i>
+<i>Days spent: {$days_waiting}</i>
+
+<i>🏃 RULE-BREAKER: Some systems are not meant to be navigated. They are meant to be circumvented.</i>
+===
+
+title: EndingExhaustion
+---
+<<send_picture waiting_area.png "The Waiting Area — Forever">>
+
+You sit down.
+
+Not temporarily. Not to rest. You sit down in the way that means something has ended.
+
+The plastic chair accepts you with the indifference of furniture that has held many people in many states of defeat.
+
+You look at the number in your hand. 7,743. The display reads: NOW SERVING 7,709.
+
+You look at the other waiting travelers. They look back. Nobody says anything. There is nothing to say.
+
+GREETER-BOT trundles past. Its smiley face flickers.
+
+🤖 <b>GREETER-BOT:</b> You look like you could use a complimentary orientation packet!
+
+You take it.
+
+It is 847 pages long.
+
+You open to page one.
+
+You begin to read.
+
+<b>THE END</b>
+
+<i>You ran out of patience. It happens to the best of us.</i>
+<i>Days spent: {$days_waiting}</i>
+
+<i>💺 PERMANENT RESIDENT: Outpost Omega-9 has a way of keeping people. You are people.</i>
+
+<i>Tip for next time: Talk to the travelers. They know things. Also: the vending machine sells Form 1-A.</i>
+===

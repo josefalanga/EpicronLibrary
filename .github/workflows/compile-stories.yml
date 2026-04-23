@@ -1,0 +1,79 @@
+name: Compile YarnSpinner Stories
+
+on:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Build ysc from source
+        run: |
+          git clone https://github.com/YarnSpinnerTool/YarnSpinner-Console.git /tmp/ysc-src
+          cd /tmp/ysc-src
+          dotnet build -c Release
+          YSC_BIN=$(find /tmp/ysc-src -name "ysc" -type f | head -1)
+          echo "YSC_BIN=$YSC_BIN" >> $GITHUB_ENV
+
+      - name: Compile stories that have sources
+        run: |
+          compiled_any=false
+
+          for story_dir in stories/*/; do
+            story_name=$(basename "$story_dir")
+            source_dir="$story_dir/source"
+            compiled_dir="$story_dir/compiled"
+
+            # Skip if no source directory or no .yarn files
+            if [ ! -d "$source_dir" ]; then
+              echo "[$story_name] No source/ directory — skipping."
+              continue
+            fi
+
+            yarn_files=$(find "$source_dir" -maxdepth 1 -name "*.yarn" | sort)
+            if [ -z "$yarn_files" ]; then
+              echo "[$story_name] No .yarn files in source/ — skipping."
+              continue
+            fi
+
+            echo "[$story_name] Compiling..."
+            mkdir -p "$compiled_dir"
+
+            "$YSC_BIN" compile \
+              --output-directory "$compiled_dir" \
+              --output-name story \
+              $yarn_files
+
+            echo "[$story_name] Done."
+            compiled_any=true
+          done
+
+          if [ "$compiled_any" = false ]; then
+            echo "No stories with sources found — nothing to compile."
+          fi
+
+      - name: Commit compiled output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stories/*/compiled/
+          if git diff --cached --quiet; then
+            echo "No changes to compiled output."
+          else
+            git commit -m "chore: recompile yarn stories from source [skip ci]"
+            git push
+          fi

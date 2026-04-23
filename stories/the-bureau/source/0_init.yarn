@@ -1,0 +1,162 @@
+title: Start
+---
+// =============================================
+// VARIABLE DECLARATIONS
+// =============================================
+
+// Character
+<<declare $player_species = "" as string>>
+<<declare $player_gender = "" as string>>
+<<declare $player_class = "" as string>>
+<<declare $player_pronoun_they = "" as string>>
+<<declare $player_pronoun_them = "" as string>>
+<<declare $player_pronoun_their = "" as string>>
+
+// Core stats
+<<declare $charm = 0 as number>>
+<<declare $wit = 0 as number>>
+<<declare $brawn = 0 as number>>
+<<declare $luck = 0 as number>>
+
+// Resources
+<<declare $credits = 0 as number>>
+<<declare $patience = 0 as number>>
+<<declare $stamps = 0 as number>>
+
+// Story flags
+<<declare $met_zyx = false as bool>>
+<<declare $met_glorb = false as bool>>
+<<declare $met_inspector = false as bool>>
+<<declare $bribed_clerk = false as bool>>
+<<declare $found_loophole = false as bool>>
+<<declare $caused_incident = false as bool>>
+<<declare $vending_machine_broken = false as bool>>
+<<declare $form_27b_stroke_6 = false as bool>>
+<<declare $form_omega = false as bool>>
+<<declare $form_transit = false as bool>>
+<<declare $spoke_to_director = false as bool>>
+<<declare $days_waiting = 0 as number>>
+<<declare $search_roll = 0 as number>>
+<<declare $escape_roll = 0 as number>>
+
+// =============================================
+// CHARACTER CREATION
+// =============================================
+
+<<send_picture bureau_logo.png "OUTPOST OMEGA-9 — Universal Transit Authority">>
+
+The emergency beacon crackles. Your ship's computer, in its final act before total system failure, manages to display one last message:
+
+<b>NEAREST DOCKING FACILITY: OUTPOST OMEGA-9</b>
+<b>ESTIMATED ARRIVAL: 4 MINUTES</b>
+<b>ESTIMATED SURVIVAL WITHOUT DOCKING: 3 MINUTES 47 SECONDS</b>
+
+Well. That's that, then.
+
+As the escape pod hurtles toward the station, you have just enough time to remember who you are.
+
+<b>— WHAT SPECIES ARE YOU? —</b>
+
+-> Human
+    <<set $player_species = "Human">>
+    <<set $charm = $charm + 1>>
+    Ah yes. <i>Human.</i> The universe's most optimistic mistake. Your species once looked at the infinite cosmos and thought: "We should fill out paperwork about this."
+-> Glorbian
+    <<set $player_species = "Glorbian">>
+    <<set $brawn = $brawn + 2>>
+    You are a Glorbian — seven feet tall, three arms, and a cultural tradition of solving problems by sitting on them until they go away. Metaphorically. Mostly.
+-> Zyx (Collective Consciousness)
+    <<set $player_species = "Zyx">>
+    <<set $wit = $wit + 2>>
+    You are a Zyx — a shimmering cloud of semi-sentient gas that has chosen, for reasons the rest of the Zyx find deeply embarrassing, to interact with solid matter.
+-> Bureaucrat-Class Android
+    <<set $player_species = "Android">>
+    <<set $wit = $wit + 1>>
+    <<set $charm = $charm - 1>>
+    You are a Bureaucrat-Class Android, model BCA-7. You were built specifically to process forms. You have feelings about this. They are also forms.
+-> Undeclared (it's complicated)
+    <<set $player_species = "Undeclared">>
+    <<set $luck = $luck + 2>>
+    Your species is... complicated. The last three governments that tried to classify you gave up and went home. This has proven surprisingly useful.
+
+<b>— WHAT IS YOUR GENDER? —</b>
+
+-> He/Him
+    <<set $player_gender = "male">>
+    <<set $player_pronoun_they = "he">>
+    <<set $player_pronoun_them = "him">>
+    <<set $player_pronoun_their = "his">>
+-> She/Her
+    <<set $player_gender = "female">>
+    <<set $player_pronoun_they = "she">>
+    <<set $player_pronoun_them = "her">>
+    <<set $player_pronoun_their = "her">>
+-> They/Them
+    <<set $player_gender = "nonbinary">>
+    <<set $player_pronoun_they = "they">>
+    <<set $player_pronoun_them = "them">>
+    <<set $player_pronoun_their = "their">>
+-> Prefer not to say (the form doesn't have that option)
+    <<set $player_gender = "unspecified">>
+    <<set $player_pronoun_they = "they">>
+    <<set $player_pronoun_them = "them">>
+    <<set $player_pronoun_their = "their">>
+    The form at the station will have a box for this. It will be the wrong box. This is fine.
+
+<b>— WHAT IS YOUR OCCUPATION? —</b>
+
+-> Freelance Courier
+    <<set $player_class = "Courier">>
+    <<set $luck = $luck + 1>>
+    <<set $charm = $charm + 1>>
+    You deliver things. Sometimes the things are legal. You have a very flexible definition of "sometimes."
+-> Retired Space Pirate
+    <<set $player_class = "Pirate">>
+    <<set $brawn = $brawn + 1>>
+    <<set $charm = $charm + 1>>
+    You used to plunder the shipping lanes. Now you mostly plunder buffets. The instincts remain.
+-> Quantum Physicist (Theoretical)
+    <<set $player_class = "Physicist">>
+    <<set $wit = $wit + 2>>
+    You understand the fundamental nature of reality. This has not, so far, helped you understand why the queue at the post office is always so long.
+-> Professional Complainer
+    <<set $player_class = "Complainer">>
+    <<set $charm = $charm + 2>>
+    You have filed 4,847 formal complaints across 23 star systems. You have won 3 of them. You consider this an excellent record.
+-> Unlicensed Wizard
+    <<set $player_class = "Wizard">>
+    <<set $wit = $wit + 1>>
+    <<set $luck = $luck + 1>>
+    Magic exists in the universe. It is mostly used to find parking spaces and win arguments about restaurant bills.
+
+// Set starting resources based on class
+<<if $player_class == "Courier">>
+    <<set $credits = 120>>
+    <<set $patience = 8>>
+<<elseif $player_class == "Pirate">>
+    <<set $credits = 200>>
+    <<set $patience = 5>>
+<<elseif $player_class == "Physicist">>
+    <<set $credits = 60>>
+    <<set $patience = 10>>
+<<elseif $player_class == "Complainer">>
+    <<set $credits = 80>>
+    <<set $patience = 12>>
+<<elseif $player_class == "Wizard">>
+    <<set $credits = 100>>
+    <<set $patience = 7>>
+<<endif>>
+
+// Species bonus resources
+<<if $player_species == "Human">>
+    <<set $credits = $credits + 20>>
+<<elseif $player_species == "Android">>
+    <<set $patience = $patience + 3>>
+<<elseif $player_species == "Undeclared">>
+    <<set $credits = $credits + 50>>
+<<endif>>
+
+<<set $stamps = 0>>
+
+<<jump Arrival>>
+===

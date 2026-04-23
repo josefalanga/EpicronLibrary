@@ -1,0 +1,127 @@
+title: Arrival
+---
+<<send_picture docking_bay.png "Docking Bay 7 — Outpost Omega-9">>
+<<send_audio arrival_klaxon.wav "Station Arrival">>
+
+The pod slams into Docking Bay 7 with the grace of a shopping trolley down a staircase.
+
+You are alive. Barely. The pod hisses, the door jams, and you have to kick it open with the kind of dignity that only comes from having no other options.
+
+Docking Bay 7 is enormous, grey, and lit by fluorescent tubes that flicker in a rhythm that feels almost intentional — like the station itself is trying to communicate something in morse code. The message, if there is one, appears to be: <i>abandon hope.</i>
+
+A sign above the exit reads:
+
+<b>WELCOME TO OUTPOST OMEGA-9</b>
+<b>Universal Transit Authority — Sector 7G</b>
+<b>"Your Journey Matters To Us (Processing Times May Vary)"</b>
+
+Below it, someone has added in marker: <i>"Current wait time: 3-5 business eternities."</i>
+
+A small robot on wheels trundles toward you. It has a smiley face painted on its chassis — the paint is chipping.
+
+🤖 <b>GREETER-BOT:</b> Welcome, traveler! I am GREETER-BOT, your automated welcome assistant! You look like you've had quite the journey! Can I interest you in a complimentary orientation packet?
+
+It holds out a stack of papers roughly the thickness of a small novel.
+
+-> Take the orientation packet
+    You take it. It is 847 pages long. Page one reads: "This document is not a substitute for Form 1-A (Arrival Declaration). Please proceed to Window 1 to obtain Form 1-A before reading this document."
+    You put it in your pocket. You will never read it.
+    <<set $wit = $wit + 1>>
+-> Decline politely
+    "No thank you," you say.
+    GREETER-BOT's smiley face somehow conveys profound sadness. "That is... fine," it says. "That is completely fine."
+-> Ask how long people usually wait here
+    "Oh!" says GREETER-BOT brightly. "The average processing time for a standard transit permit is—" It pauses. Its head rotates 360 degrees. "—I'm not authorised to share that information. Please proceed to Window 1."
+    <<set $charm = $charm + 1>>
+
+🤖 <b>GREETER-BOT:</b> Please proceed to <b>Window 1</b> to begin your transit permit application. Have a productive and regulation-compliant day!
+
+It wheels away. One of its wheels squeaks. Every. Single. Revolution.
+
+You look around the main hall of Outpost Omega-9.
+
+<<send_picture main_hall.png "The Main Hall — Outpost Omega-9">>
+
+The hall is a cathedral of bureaucracy. Rows of plastic chairs, most of them occupied by beings of various species, all wearing the same expression: the thousand-yard stare of someone who has been waiting a very long time and has stopped believing it will ever end.
+
+There are several windows along the far wall, each with a sign. Most of the signs say <b>CLOSED</b>. Window 1 has a queue.
+
+The queue has a sign too. It reads: <b>"QUEUE FOR WINDOW 1 — Please take a number."</b>
+
+You take a number. It is 7,743. The display above Window 1 currently reads: <b>NOW SERVING: 7,701.</b>
+
+This is going to take a while.
+
+-> Head to the queue and wait
+    <<jump QueueWait>>
+-> Explore the hall first
+    <<jump MainHub>>
+===
+
+title: QueueWait
+---
+<<set $days_waiting = $days_waiting + 1>>
+
+You join the queue. The person in front of you is a Glorbian who has apparently been here long enough to have started knitting.
+<<if $player_species == "Glorbian">>
+You exchange a nod of species-solidarity.
+<<else>>
+They do not acknowledge you.
+<<endif>>
+
+<<wait 1>>
+
+Time passes.
+
+<<wait 1>>
+
+More time passes.
+
+<<wait 1>>
+
+The number advances to 7,702.
+
+A small child — or possibly a very old being of indeterminate age — sitting nearby leans over and whispers: "They called my number three days ago. I went to the window. They told me I needed Form 27B/6 before they could help me. I've been looking for Form 27B/6 ever since."
+
+They hold up a piece of paper. "I found it yesterday. I'm back in the queue now."
+
+Their eyes are haunted.
+
+-> Ask where they got Form 27B/6
+    "Window 4," they say. "But Window 4 is only open on Tuesdays."
+    "What day is it today?" you ask.
+    They stare at you. "Nobody knows," they whisper.
+    <<set $form_27b_stroke_6 = false>>
+-> Offer them a sympathetic nod and focus on waiting
+    You nod. They nod back. You are bonded now, in the way that only shared suffering can bond strangers.
+-> Decide this queue is not for you
+    <<jump MainHub>>
+
+<<if $days_waiting >= 3>>
+    <<jump PatientSnap>>
+<<endif>>
+
+<<jump MainHub>>
+===
+
+title: PatientSnap
+---
+<<set $patience = $patience - 3>>
+
+You have been waiting for what feels like — and may actually be — several geological epochs.
+
+<<if $patience <= 0>>
+    Something inside you breaks. Not dramatically. Not with a crack or a bang. More like the quiet sound of a very tired person sitting down on the floor and refusing to get up.
+    You have run out of patience entirely.
+    <<jump EndingExhaustion>>
+<<else>>
+    You take a deep breath. You remind yourself that you are a {$player_class} and you have survived worse.
+    <<if $player_class == "Complainer">>
+    Technically. Probably.
+    <<else>>
+    Probably.
+    <<endif>>
+    You persevere.
+    <<jump MainHub>>
+<<endif>>
+===
