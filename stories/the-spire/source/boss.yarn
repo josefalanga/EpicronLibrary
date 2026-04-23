@@ -1,50 +1,173 @@
 title: Act1Boss
 ---
-As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature. 
+As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.
 
 No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?
 
-Creature: Why you disturb my slumber again, pathetic worm? Do you really like dying that much?
-
+Creature: Why do you disturb my slumber again, pathetic worm? Do you really like dying that much?
 -> A-again?
-    You see the beast grinning, tasting your confussion. How many times this has happened already?
+    You see the beast grinning, tasting your confusion. How many times has this happened already?
+    Creature: More than you can count, little one. And yet here you are.
 -> I'm already here, so let's do it!
-    The beast prepares to charge at you.
+    The beast lets out a sound that might be a laugh, if laughs could strip paint.
+    Creature: That's what they all say. Right before the end.
 
-Creature: How many times I have to teach you this lesson?
+Creature: How many times do I have to teach you this lesson?
 
--> Act1BossWin
-    <<jump Act1BossWin>>
--> Act1BossWin
-    <<jump Act1BossWin>>
--> Act1BossWin
-    <<jump Act1BossWin>>
--> Act1BossWin
-    <<jump Act1BossWin>>
--> Act1BossDie
-    <<jump Act1BossDie>>
--> Act1BossDie
-    <<jump Act1BossDie>>
--> Act1BossDie
-    <<jump Act1BossDie>>
--> Act1BossDie
-    <<jump Act1BossDie>>
+<<set $boss_health to 250>>
+<<set $boss_damage to 35>>
+
+The creature rises. The floor cracks under its weight. Your stats: HP {$health}/{$health_max}, Damage {$damage}, Block {$block}.
+
+-> ⚔️ Strike hard
+    <<set $boss_health to $boss_health - $damage>>
+    Your blow lands on something that might be a flank. The creature shudders. (Boss HP: {$boss_health})
+    It swings a tentacle at you!
+    <<set $health to $health - $boss_damage>>
+    <<if $health <= 0>>
+        <<jump Act1BossDie>>
+    <<endif>>
+    (Your HP: {$health}/{$health_max})
+    -> ⚔️ Keep attacking
+        <<set $boss_health to $boss_health - $damage>>
+        <<set $boss_health to $boss_health - $damage>>
+        You rain blows on the creature, ignoring the pain. (Boss HP: {$boss_health})
+        It retaliates twice!
+        <<set $health to $health - $boss_damage>>
+        <<set $health to $health - $boss_damage>>
+        <<if $health <= 0>>
+            <<jump Act1BossDie>>
+        <<endif>>
+        <<if $boss_health <= 0>>
+            <<jump Act1BossWin>>
+        <<endif>>
+        The creature is badly wounded. One final push!
+        -> ⚔️ Finish it
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+        -> 🛡️ Brace and strike
+            <<set $health to $health - ($boss_damage / 2)>>
+            <<if $health <= 0>>
+                <<jump Act1BossDie>>
+            <<endif>>
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+    -> 🛡️ Defend and counter
+        <<set $health to $health - ($boss_damage - $block)>>
+        <<if $health <= 0>>
+            <<jump Act1BossDie>>
+        <<endif>>
+        <<set $boss_health to $boss_health - ($damage / 2)>>
+        You absorb the next blow and counter. (Boss HP: {$boss_health}, Your HP: {$health}/{$health_max})
+        <<if $boss_health <= 0>>
+            <<jump Act1BossWin>>
+        <<endif>>
+        The creature is staggered. Press the advantage!
+        -> ⚔️ Final strike
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+        -> 🛡️ Careful finish
+            <<set $health to $health - ($boss_damage / 2)>>
+            <<if $health <= 0>>
+                <<jump Act1BossDie>>
+            <<endif>>
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+-> 🛡️ Defend first
+    <<set $health to $health - ($boss_damage - $block)>>
+    <<if $health <= 0>>
+        <<jump Act1BossDie>>
+    <<endif>>
+    <<set $boss_health to $boss_health - $damage>>
+    You raise your guard. The creature's first blow glances off. You counter-attack. (Boss HP: {$boss_health}, Your HP: {$health}/{$health_max})
+    The creature is enraged. It attacks relentlessly.
+    -> ⚔️ Meet it head on
+        <<set $boss_health to $boss_health - $damage>>
+        <<set $health to $health - $boss_damage>>
+        <<if $health <= 0>>
+            <<jump Act1BossDie>>
+        <<endif>>
+        <<if $boss_health <= 0>>
+            <<jump Act1BossWin>>
+        <<endif>>
+        You're both battered. One of you will break first.
+        -> ⚔️ Everything you have
+            <<set $health to $health - ($boss_damage / 2)>>
+            <<if $health <= 0>>
+                <<jump Act1BossDie>>
+            <<endif>>
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+        -> 🛡️ Outlast it
+            <<set $health to $health - ($boss_damage / 2)>>
+            <<if $health <= 0>>
+                <<jump Act1BossDie>>
+            <<endif>>
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
+    -> 🛡️ Keep defending
+        <<set $health to $health - ($boss_damage - $block)>>
+        <<if $health <= 0>>
+            <<jump Act1BossDie>>
+        <<endif>>
+        <<set $boss_health to $boss_health - ($damage / 2)>>
+        Your patience pays off. The creature overextends. (Boss HP: {$boss_health})
+        <<if $boss_health <= 0>>
+            <<jump Act1BossWin>>
+        <<endif>>
+        -> ⚔️ Strike the opening
+            <<set $boss_health to 0>>
+            <<jump Act1BossWin>>
 ===
 title: Act1BossDie
 ---
-You had an horrible, excruciating death, but somehow, you are still here, your consiousness is floating in the room, un-alived. 
+You had a horrible, excruciating death, but somehow, you are still here. Your consciousness is floating in the room, un-alived.
+
+The creature looms over what remains of you, utterly unimpressed.
+
+Creature: Same as always. Come back when you've learned something.
+
 <<if $cursed_blood_pact>>
+A cold hand grips your floating soul. The Gatekeeper's voice echoes from somewhere below.
 Gatekeeper: You've met with a terrible fate, haven't you? Let me honor our blood pact.
+The world rewinds. You find yourself at the bottom of the tower again.
 <<jump Start>>
+<<else>>
+The darkness takes you completely. The tower keeps its secrets.
+
+Perhaps someone else will try tomorrow.
 <<endif>>
 ===
 title: Act1BossWin
 ---
-The beast lays at your feet, completly broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.
+The beast lays at your feet, completely broken. The tentacles still attached to the body twitch. The feathers, mixed with blood, shine a maddening purple light. The now dismembered body leaks a green slime.
+
+You stand there, breathing hard, not entirely sure what just happened.
 
 -> Take a tentacle
+    You wrench a tentacle free. It writhes in your hand for a moment, then goes still.
+    It feels like it might be useful. Or cursed. Probably both.
+    <<set $damage to $damage + 15>>
+    (Damage +15: now {$damage})
 -> Take a feather
+    You pluck one of the shimmering purple feathers. It hums faintly against your fingers.
+    Something about it makes you feel... harder to kill.
+    <<set $health_max to $health_max + 25>>
+    <<set $health to $health + 25>>
+    (Max HP +25: now {$health_max})
 -> Drink the slime
+    You cup some of the green slime and drink it before the rational part of your brain can object.
+    It tastes like old coins and bad decisions. You feel strangely wealthy.
+    <<set $gold to $gold + 150>>
+    (Gold +150: now {$gold})
 
-You won, and the room gets smaller again. On the ceiling up the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, of a throwing a rope for you to climb to the next floor. What's happening here?
+The room gets smaller again. On the ceiling above the altar, there is now a hole, and you see the clear silhouette of someone with the head of a raven and a cloak, throwing a rope down for you to climb to the next floor.
+
+What's happening here?
+
+Raven Figure: Well done, little worm. You surprise me. Again.
+
+You grab the rope. The tower isn't done with you yet.
+
+// End of Act 1 — Act 2 coming soon
 ===

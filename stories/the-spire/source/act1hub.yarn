@@ -1,70 +1,265 @@
 title: Act1Hub
 ---
 <<if $health <= 0>>
- <<jump Act1ClimbDie>>
+    <<jump Act1ClimbDie>>
 <<endif>>
-<<set $level to $level+1>>
+<<set $level to $level + 1>>
 <<if $level <= $act_1_levels>>
 
-You go upstairs.
+You go upstairs. Floor {$level} of {$act_1_levels}. Health: {$health}/{$health_max}. Gold: {$gold}.
 
-    -> Combat
+    -> ⚔️ Combat
         <<jump Act1CombatRoll>>
-    -> Combat
+    -> ⚔️ Combat
         <<jump Act1CombatRoll>>
-    -> Combat
+    -> ⚔️ Combat
         <<jump Act1CombatRoll>>
-    -> Event
+    -> 🎲 Event
         <<jump Act1EventsRoll>>
-    -> Event
+    -> 🎲 Event
         <<jump Act1EventsRoll>>
-    -> Rest
+    -> 🛌 Rest
         <<jump Act1Rest>>
-    -> Shop
+    -> 🛒 Shop
         <<jump Act1Shop>>
-    -> Treasure
+    -> 💰 Treasure
         <<jump Act1TreasureRoll>>
 <<else>>
-You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completly covered in blood and feces, yet no animal or human remains are in sight. What's happening here?
+You reach a floor with no windows, and no visible stairs. The only thing that catches your eye is an ominous stone altar, completely covered in blood and feces, yet no animal or human remains are in sight. What's happening here?
 -> Touch the altar
     <<jump Act1Boss>>
 -> Turn back
     <b>THUMPH</b>
-    Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completly, you hear a loud sound of wings coming over you.
-    <<jump Act1BossDie>> 
+    Something hits your head as you turned around to face the stairs leading down. Your conscience vanishes as you feel the warm blood coming out of your cranium. Before you are gone completely, you hear a loud sound of wings coming over you.
+    <<jump Act1BossDie>>
 <<endif>>
 ===
 title: Act1CombatRoll
 ---
-Combat Placeholder
-
+<<if dice(3) == 1>>
+    <<set $enemy_name to "Cultist">>
+    <<set $enemy_health to 48>>
+    <<set $enemy_damage to 14>>
+<<elseif dice(3) == 2>>
+    <<set $enemy_name to "Jaw Worm">>
+    <<set $enemy_health to 42>>
+    <<set $enemy_damage to 11>>
+<<else>>
+    <<set $enemy_name to "Louse">>
+    <<set $enemy_health to 38>>
+    <<set $enemy_damage to 9>>
+<<endif>>
+A {$enemy_name} blocks your path! It looks mean. (Enemy HP: {$enemy_health}, Damage: {$enemy_damage})
+-> ⚔️ Attack (deal {$damage} damage)
+    <<set $enemy_health to $enemy_health - $damage>>
+    <<if $enemy_health <= 0>>
+        You strike the {$enemy_name} down in one blow. It crumples to the floor.
+        <<set $gold to $gold + 12>>
+        You loot 12 gold from the remains.
+        <<jump Act1Hub>>
+    <<else>>
+        You land a solid hit! The {$enemy_name} staggers. (Enemy HP: {$enemy_health})
+        The {$enemy_name} retaliates!
+        <<set $health to $health - $enemy_damage>>
+        <<if $health <= 0>>
+            <<jump Act1ClimbDie>>
+        <<endif>>
+        You are hurt. (Your HP: {$health}/{$health_max})
+        -> ⚔️ Press the attack
+            <<set $enemy_health to $enemy_health - $damage>>
+            <<if $enemy_health <= 0>>
+                The {$enemy_name} falls. You catch your breath.
+                <<set $gold to $gold + 12>>
+                You loot 12 gold.
+            <<else>>
+                The {$enemy_name} is still standing! It hits you again.
+                <<set $health to $health - $enemy_damage>>
+                <<if $health <= 0>>
+                    <<jump Act1ClimbDie>>
+                <<endif>>
+                You finish it off through sheer stubbornness.
+                <<set $gold to $gold + 12>>
+                You loot 12 gold. (Your HP: {$health}/{$health_max})
+            <<endif>>
+        -> 🛡️ Defend and counter
+            <<set $enemy_health to $enemy_health - ($damage / 2)>>
+            <<set $enemy_health to $enemy_health - ($damage / 2)>>
+            <<set $health to $health - ($enemy_damage - $block)>>
+            <<if $health <= 0>>
+                <<jump Act1ClimbDie>>
+            <<endif>>
+            You take a defensive stance and counter-strike, finishing it off.
+            <<set $gold to $gold + 12>>
+            You loot 12 gold. (Your HP: {$health}/{$health_max})
+        -> 🏃 Flee (lose 8 health)
+            You turn and run. The {$enemy_name} gets a parting swipe in.
+            <<set $health to $health - 8>>
+            <<if $health <= 0>>
+                <<jump Act1ClimbDie>>
+            <<endif>>
+            You escape, bruised and embarrassed.
+    <<endif>>
+-> 🛡️ Defend first
+    <<set $health to $health - ($enemy_damage - $block)>>
+    <<if $health <= 0>>
+        <<jump Act1ClimbDie>>
+    <<endif>>
+    You raise your guard. The {$enemy_name}'s blow glances off. You counter-attack.
+    <<set $enemy_health to $enemy_health - $damage>>
+    <<if $enemy_health <= 0>>
+        The {$enemy_name} collapses. Clean kill.
+        <<set $gold to $gold + 12>>
+        You loot 12 gold.
+    <<else>>
+        The {$enemy_name} is wounded but still fighting! (Enemy HP: {$enemy_health})
+        You finish it with a second strike.
+        <<set $gold to $gold + 12>>
+        You loot 12 gold. (Your HP: {$health}/{$health_max})
+    <<endif>>
+-> 🏃 Flee (lose 8 health)
+    You turn and run before it can react. It gets a parting swipe in.
+    <<set $health to $health - 8>>
+    <<if $health <= 0>>
+        <<jump Act1ClimbDie>>
+    <<endif>>
+    You escape, bruised and embarrassed.
 <<jump Act1Hub>>
 ===
 title: Act1TreasureRoll
 ---
-Treasure Placeholder
-
+<<if dice(3) == 1>>
+    You find a dusty chest wedged behind a collapsed pillar.
+    Inside: a handful of gold coins and a strange vial.
+    <<set $gold to $gold + 40>>
+    You pocket 40 gold and drink the vial. It tastes like regret, but your wounds close slightly.
+    <<set $health to $health + 10>>
+    <<if $health > $health_max>>
+        <<set $health to $health_max>>
+    <<endif>>
+<<elseif dice(3) == 2>>
+    A skeleton slumps against the wall, still clutching a coin purse.
+    <<set $gold to $gold + 55>>
+    You take 55 gold. The skeleton doesn't object.
+    You also find a worn whetstone. Your blade feels sharper.
+    <<set $damage to $damage + 5>>
+<<else>>
+    A glowing chest sits in the center of the room, completely unguarded.
+    That's suspicious.
+    -> Open it anyway
+        <<set $gold to $gold + 70>>
+        Inside: 70 gold and a small healing potion.
+        <<set $health to $health + 15>>
+        <<if $health > $health_max>>
+            <<set $health to $health_max>>
+        <<endif>>
+        No trap. Sometimes a chest is just a chest.
+    -> Leave it
+        You walk past. The chest watches you go.
+        You feel like an idiot two floors later.
+<<endif>>
 <<jump Act1Hub>>
 ===
 title: Act1Rest
 ---
-Resting Placeholder
-
+You find a small alcove with a smouldering campfire. Someone was here recently.
+Your HP: {$health}/{$health_max}.
+-> 🔥 Rest (recover HP)
+    You sit by the fire, eat some rations, and tend to your wounds.
+    <<set $health to $health + ($health_max / 3)>>
+    <<if $health > $health_max>>
+        <<set $health to $health_max>>
+    <<endif>>
+    You feel considerably less like dying. (HP: {$health}/{$health_max})
+-> 🔨 Smith (spend 50 gold to upgrade damage +8)
+    <<if $gold >= 50>>
+        <<set $gold to $gold - 50>>
+        <<set $damage to $damage + 8>>
+        You find a makeshift forge in the corner and spend time sharpening and reinforcing your weapon.
+        It feels noticeably deadlier. (Damage: {$damage})
+    <<else>>
+        You don't have enough gold for that. (Need 50, have {$gold})
+        You rest instead.
+        <<set $health to $health + ($health_max / 3)>>
+        <<if $health > $health_max>>
+            <<set $health to $health_max>>
+        <<endif>>
+    <<endif>>
+-> 📖 Study (spend 50 gold to upgrade block +8)
+    <<if $gold >= 50>>
+        <<set $gold to $gold - 50>>
+        <<set $block to $block + 8>>
+        You find some scrawled notes left by a previous climber about defensive techniques.
+        You practice until the fire dies. (Block: {$block})
+    <<else>>
+        You don't have enough gold for that. (Need 50, have {$gold})
+        You rest instead.
+        <<set $health to $health + ($health_max / 3)>>
+        <<if $health > $health_max>>
+            <<set $health to $health_max>>
+        <<endif>>
+    <<endif>>
 <<jump Act1Hub>>
 ===
 title: Act1Shop
 ---
-Shop Placeholder
-
+A merchant has set up a rickety stall in the middle of the corridor. He's wearing a top hat and a smile that doesn't reach his eyes.
+Merchant: "Ah, a customer! Wonderful. I accept only gold. No returns. No refunds. No complaints."
+Your gold: {$gold}.
+-> 💊 Healing Potion (35 gold) — restore 25 HP
+    <<if $gold >= 35>>
+        <<set $gold to $gold - 35>>
+        <<set $health to $health + 25>>
+        <<if $health > $health_max>>
+            <<set $health to $health_max>>
+        <<endif>>
+        Merchant: "Finest brew in the tower. Probably."
+        You drink it. It tastes like copper and hope. (HP: {$health}/{$health_max})
+    <<else>>
+        Merchant: "Come back when you have more coin, friend."
+        You can't afford it. (Need 35, have {$gold})
+    <<endif>>
+-> ⚔️ Weapon Upgrade (60 gold) — damage +10
+    <<if $gold >= 60>>
+        <<set $gold to $gold - 60>>
+        <<set $damage to $damage + 10>>
+        Merchant: "Enchanted. Mostly."
+        Your weapon hums with a faint, slightly ominous energy. (Damage: {$damage})
+    <<else>>
+        Merchant: "A fine choice, if you could afford it."
+        You can't afford it. (Need 60, have {$gold})
+    <<endif>>
+-> 🛡️ Shield Charm (60 gold) — block +10
+    <<if $gold >= 60>>
+        <<set $gold to $gold - 60>>
+        <<set $block to $block + 10>>
+        Merchant: "Deflects most things. The rest builds character."
+        A small charm attaches itself to your armor. (Block: {$block})
+    <<else>>
+        Merchant: "Perhaps next time."
+        You can't afford it. (Need 60, have {$gold})
+    <<endif>>
+-> ❤️ Max HP Upgrade (80 gold) — max HP +20
+    <<if $gold >= 80>>
+        <<set $gold to $gold - 80>>
+        <<set $health_max to $health_max + 20>>
+        <<set $health to $health + 20>>
+        Merchant: "Vitality. The most underrated commodity."
+        You feel your body expand slightly to accommodate more punishment. (Max HP: {$health_max})
+    <<else>>
+        Merchant: "A wise investment, if only you had the funds."
+        You can't afford it. (Need 80, have {$gold})
+    <<endif>>
+-> 🚪 Leave
+    Merchant: "Come again! Or don't. The tower doesn't care either way."
 <<jump Act1Hub>>
 ===
 title: Act1ClimbDie
 ---
-Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In them hand, a gruesome blade shines red. 
+Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In their hand, a gruesome blade shines red.
 
-"Uh... I always tought it was a Scythe" you think for yourself.
+"Uh... I always thought it was a Scythe" you think to yourself.
 
-- Stranger: I'm sorry, im not Death, I'm something way, way worse... little one.
+- Stranger: I'm sorry, I'm not Death. I'm something way, way worse... little one.
 
-He raises the sword in the air, and you prepare for the strike, bit it never comes. Everything just fades away, and you feel numb.
+He raises the sword in the air, and you prepare for the strike, but it never comes. Everything just fades away, and you feel numb.
 ===

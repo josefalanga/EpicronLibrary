@@ -31,6 +31,11 @@ title: Start
 <<declare $relic_bad_face = false as bool>>
 <<set $relic_bad_face = false>>
 //curses
+<<declare $enemy_health = 0 as number>>
+<<declare $enemy_name = "" as string>>
+<<declare $enemy_damage = 0 as number>>
+<<declare $boss_health = 0 as number>>
+<<declare $boss_damage = 0 as number>>
 <<declare $cursed_corruption = false as bool>>
 <<set $cursed_corruption = false>>
 
