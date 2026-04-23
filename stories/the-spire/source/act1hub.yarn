@@ -1,4 +1,5 @@
 title: Act1Hub
+tags: autoroll
 ---
 <<if $health <= 0>>
     <<jump Act1ClimbDie>>
