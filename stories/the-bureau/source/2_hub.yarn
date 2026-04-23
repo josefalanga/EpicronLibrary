@@ -57,39 +57,39 @@ Behind {$player_pronoun_them}, a motivational poster reads: <i>"You Don't Have T
 <<if not $met_inspector>>
     <<set $met_inspector = true>>
     Clerk Morbidius looks at you with the enthusiasm of a wet sock.
-    🧑‍💼 <b>CLERK MORBIDIUS:</b> Next. State your business.
+    👔 <b>CLERK MORBIDIUS:</b> Next. State your business.
     -> "I need a transit permit."
-        🧑‍💼 <b>CLERK MORBIDIUS:</b> Of course you do. Everyone needs a transit permit. Do you have Form 1-A?
+        👔 <b>CLERK MORBIDIUS:</b> Of course you do. Everyone needs a transit permit. Do you have Form 1-A?
         -> "What's Form 1-A?"
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> It's the Arrival Declaration. You should have received it upon arrival.
+            👔 <b>CLERK MORBIDIUS:</b> It's the Arrival Declaration. You should have received it upon arrival.
             -> "Nobody gave me one."
-                🧑‍💼 <b>CLERK MORBIDIUS:</b> That is not my department. Please proceed to Window 2 for Form 1-A.
+                👔 <b>CLERK MORBIDIUS:</b> That is not my department. Please proceed to Window 2 for Form 1-A.
                 A pause.
-                🧑‍💼 <b>CLERK MORBIDIUS:</b> Window 2 is closed.
+                👔 <b>CLERK MORBIDIUS:</b> Window 2 is closed.
                 -> "When does it open?"
-                    🧑‍💼 <b>CLERK MORBIDIUS:</b> When it opens.
+                    👔 <b>CLERK MORBIDIUS:</b> When it opens.
                     <<set $patience = $patience - 1>>
                     <<jump MainHub>>
         -> "I have it right here." (bluff) <<if $charm >= 2>>
             <<set $charm = $charm - 1>>
             You produce the orientation packet and hold it up with confidence.
             Clerk Morbidius squints. Looks at the packet. Looks at you. Looks back at the packet.
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> ...This is an orientation packet.
+            👔 <b>CLERK MORBIDIUS:</b> ...This is an orientation packet.
             -> "Is it not also Form 1-A?"
-                🧑‍💼 <b>CLERK MORBIDIUS:</b> ...It is not. But I appreciate the creativity. Next, you'll need Form 27B/6. Window 4.
+                👔 <b>CLERK MORBIDIUS:</b> ...It is not. But I appreciate the creativity. Next, you'll need Form 27B/6. Window 4.
                 <<set $stamps = $stamps + 1>>
                 You have earned a stamp of grudging respect. Metaphorically.
                 <<jump MainHub>>
 <<else>>
-    🧑‍💼 <b>CLERK MORBIDIUS:</b> You again. Do you have Form 27B/6?
+    👔 <b>CLERK MORBIDIUS:</b> You again. Do you have Form 27B/6?
     <<if $form_27b_stroke_6 and not $form_omega>>
         -> "Yes! Right here!"
             Clerk Morbidius takes the form. Examines it. Turns it over. Holds it up to the light.
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> This is Form 27B/6, revision 4. We require revision 5.
+            👔 <b>CLERK MORBIDIUS:</b> This is Form 27B/6, revision 4. We require revision 5.
             -> "Where do I get revision 5?"
-                🧑‍💼 <b>CLERK MORBIDIUS:</b> Window 4.
+                👔 <b>CLERK MORBIDIUS:</b> Window 4.
                 -> "Window 4 is never open!"
-                    🧑‍💼 <b>CLERK MORBIDIUS:</b> It was open last Tuesday.
+                    👔 <b>CLERK MORBIDIUS:</b> It was open last Tuesday.
                     <<set $patience = $patience - 1>>
                     <<jump MainHub>>
             -> "Is there any other way?" <<if $wit >= 3>>
@@ -97,28 +97,28 @@ Behind {$player_pronoun_them}, a motivational poster reads: <i>"You Don't Have T
                 You think carefully. The revision number is just a number. The form is otherwise identical.
                 -> "What if I just... write a 5 over the 4?"
                     Clerk Morbidius stares at you for a very long time.
-                    🧑‍💼 <b>CLERK MORBIDIUS:</b> ...I did not see that. You will also need Form Omega. Speak to the Supervisor.
+                    👔 <b>CLERK MORBIDIUS:</b> ...I did not see that. You will also need Form Omega. Speak to the Supervisor.
                     <<set $form_27b_stroke_6 = true>>
                     <<set $stamps = $stamps + 1>>
                     <<jump MainHub>>
     <<elseif $form_27b_stroke_6 and $form_omega>>
         -> "I have Form 27B/6 AND Form Omega."
             Clerk Morbidius takes both forms. Examines them with the thoroughness of someone who has nothing else to live for.
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> These appear to be... in order.
+            👔 <b>CLERK MORBIDIUS:</b> These appear to be... in order.
             A long pause. The fluorescent light flickers.
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> You will need one more thing. The Director's signature.
+            👔 <b>CLERK MORBIDIUS:</b> You will need one more thing. The Director's signature.
             -> "Of course I will."
                 <<set $stamps = $stamps + 1>>
                 <<jump MainHub>>
     <<else>>
         -> "Not yet. I'm working on it."
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> We'll be here.
+            👔 <b>CLERK MORBIDIUS:</b> We'll be here.
             <<set $patience = $patience - 1>>
             <<jump MainHub>>
         -> "This system is absurd." <<if $player_class == "Complainer">>
             You launch into a detailed, well-structured, professionally-delivered complaint.
             Clerk Morbidius listens. Actually listens. When you finish, there is a long silence.
-            🧑‍💼 <b>CLERK MORBIDIUS:</b> ...You're not wrong. Here. Take this. It won't help, but it's something.
+            👔 <b>CLERK MORBIDIUS:</b> ...You're not wrong. Here. Take this. It won't help, but it's something.
             {$player_pronoun_they} slides a small card under the glass. It reads: <i>"Complaint Acknowledged — Reference #44821-B"</i>
             <<set $stamps = $stamps + 1>>
             <<set $patience = $patience + 2>>
@@ -375,7 +375,7 @@ The notice board is covered in layers of notices, some so old they have become a
 
 <b>NOTICE:</b> Lost and found items may be claimed at Window 9. Window 9 location: See Window 9 for details.
 
-<b>NOTICE:</b> Traveler {get_player_name()} — your application has been flagged for review. Please do not be alarmed. This is routine. Please also do not ask what it means. This is also routine.
+<b>NOTICE:</b> Traveler [NAME REDACTED] — your application has been flagged for review. Please do not be alarmed. This is routine. Please also do not ask what it means. This is also routine.
 
 You stare at that last notice for a long time.
 
@@ -492,17 +492,17 @@ title: FinalSubmission
 
 You approach Window 1 with both forms. Clerk Morbidius looks up.
 
-🧑‍💼 <b>CLERK MORBIDIUS:</b> Form 27B/6?
+👔 <b>CLERK MORBIDIUS:</b> Form 27B/6?
 
 "Revision 5," you confirm.
 
-🧑‍💼 <b>CLERK MORBIDIUS:</b> Form Omega?
+👔 <b>CLERK MORBIDIUS:</b> Form Omega?
 
 "Right here."
 
 Clerk Morbidius takes both forms. Examines them. Stamps them. The stamp makes a sound like a small, satisfied full stop.
 
-🧑‍💼 <b>CLERK MORBIDIUS:</b> You'll need the Director's signature.
+👔 <b>CLERK MORBIDIUS:</b> You'll need the Director's signature.
 
 -> "I know. I'm working on it."
     <<jump MainHub>>
