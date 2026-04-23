@@ -21,24 +21,28 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
+      - name: Build yarn-linter
+        run: |
+          dotnet build .github/yarn-linter/yarn-linter.csproj -c Release -o /tmp/yarn-linter-out
+          echo "YARN_LINTER=$(find /tmp/yarn-linter-out -name 'yarn-linter' -type f | head -1)" >> $GITHUB_ENV
+
       - name: Build ysc from source
         run: |
           git clone https://github.com/YarnSpinnerTool/YarnSpinner-Console.git /tmp/ysc-src
           cd /tmp/ysc-src
           dotnet build -c Release
-          YSC_BIN=$(find /tmp/ysc-src -name "ysc" -type f | head -1)
-          echo "YSC_BIN=$YSC_BIN" >> $GITHUB_ENV
+          echo "YSC_BIN=$(find /tmp/ysc-src -name 'ysc' -type f | head -1)" >> $GITHUB_ENV
 
-      - name: Compile stories that have sources
+      - name: Lint and compile stories
         run: |
           compiled_any=false
+          lint_failed=false
 
           for story_dir in stories/*/; do
             story_name=$(basename "$story_dir")
             source_dir="$story_dir/source"
             compiled_dir="$story_dir/compiled"
 
-            # Skip if no source directory or no .yarn files
             if [ ! -d "$source_dir" ]; then
               echo "[$story_name] No source/ directory — skipping."
               continue
@@ -47,6 +51,13 @@ jobs:
             yarn_files=$(find "$source_dir" -maxdepth 1 -name "*.yarn" | sort)
             if [ -z "$yarn_files" ]; then
               echo "[$story_name] No .yarn files in source/ — skipping."
+              continue
+            fi
+
+            echo "[$story_name] Linting..."
+            if ! "$YARN_LINTER" $yarn_files; then
+              echo "[$story_name] ❌ Lint failed — skipping compilation."
+              lint_failed=true
               continue
             fi
 
@@ -61,6 +72,11 @@ jobs:
             echo "[$story_name] Done."
             compiled_any=true
           done
+
+          if [ "$lint_failed" = true ]; then
+            echo "One or more stories failed linting."
+            exit 1
+          fi
 
           if [ "$compiled_any" = false ]; then
             echo "No stories with sources found — nothing to compile."
