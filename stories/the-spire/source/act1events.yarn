@@ -38,13 +38,13 @@ A strange blue humanoid with a golden helm approaches you with a huge smile.
     A warm golden light envelops your body and dissipates.
     The creature grins.
     Cleric: "Cleric best healer. Have a good day!"
-    <<set $gold to $gold-35>>
+    <<set $gold to $gold - 35>>
     <<set $health to $health + ($health_max / 4)>>
 -> Purify (25 gold)
     A cold blue flame envelops your body and dissipates.
     The creature grins.
     Cleric: "Cleric talented. Have a good day!"
-    <<set $gold to $gold-25>>
+    <<set $gold to $gold - 25>>
     <<set $damage to $damage+10>>
 -> Leave
     You don't trust this "Cleric", so you leave.
@@ -69,15 +69,15 @@ You sure don't see any traps nearby.
 title: Golden_Idol_Boulder
 ---
 -> Outrun
-    <<set $damage to $damage-10>>
+    <<set $damage to $damage - 10>>
     RUUUUUUUUUUN!
     You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.
 -> Smash
     <<set $health to $health - ($health_max / 4)>>
     You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.
 -> Hide
-    <<set $health_max to $health_max-7>>
-    <<set $health to $health-7>>
+    <<set $health_max to $health_max - 7>>
+    <<set $health to $health - 7>>
     SQUISH!
     The boulder flattens you a little as it passes by, but otherwise you can get out of here.
 <<jump Act1Hub>>
