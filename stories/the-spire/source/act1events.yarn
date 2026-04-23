@@ -39,7 +39,7 @@ A strange blue humanoid with a golden helm approaches you with a huge smile.
     The creature grins.
     Cleric: "Cleric best healer. Have a good day!"
     <<set $gold to $gold - 35>>
-    <<set $health to $health + ($health_max / 4)>>
+    <<set $health to $health + round($health_max / 4)>>
 -> Purify (25 gold)
     A cold blue flame envelops your body and dissipates.
     The creature grins.
@@ -73,7 +73,7 @@ title: Golden_Idol_Boulder
     RUUUUUUUUUUN!
     You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.
 -> Smash
-    <<set $health to $health - ($health_max / 4)>>
+    <<set $health to $health - round($health_max / 4)>>
     You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.
 -> Hide
     <<set $health_max to $health_max - 7>>
@@ -112,7 +112,7 @@ Eerie Man: "Face. Let me touch? Maybe trade?"
     <<set $gold = $gold + 75>>
     Eerie Man: "What a nice face. Nice face."
     While he touches your face, you begin to feel your life drain out of it!
-    <<set $health = $health - ($health_max / 10)>>
+    <<set $health = $health - round($health_max / 10)>>
     During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape.
     His face was completely blank.
 -> Trade

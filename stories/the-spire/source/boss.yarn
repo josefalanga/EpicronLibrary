@@ -46,7 +46,7 @@ The creature rises. The floor cracks under its weight. Your stats: HP {$health}/
             <<set $boss_health to 0>>
             <<jump Act1BossWin>>
         -> 🛡️ Brace and strike
-            <<set $health to $health - ($boss_damage / 2)>>
+            <<set $health to $health - round($boss_damage / 2)>>
             <<if $health <= 0>>
                 <<jump Act1BossDie>>
             <<endif>>
@@ -57,7 +57,7 @@ The creature rises. The floor cracks under its weight. Your stats: HP {$health}/
         <<if $health <= 0>>
             <<jump Act1BossDie>>
         <<endif>>
-        <<set $boss_health to $boss_health - ($damage / 2)>>
+        <<set $boss_health to $boss_health - round($damage / 2)>>
         You absorb the next blow and counter. (Boss HP: {$boss_health}, Your HP: {$health}/{$health_max})
         <<if $boss_health <= 0>>
             <<jump Act1BossWin>>
@@ -67,7 +67,7 @@ The creature rises. The floor cracks under its weight. Your stats: HP {$health}/
             <<set $boss_health to 0>>
             <<jump Act1BossWin>>
         -> 🛡️ Careful finish
-            <<set $health to $health - ($boss_damage / 2)>>
+            <<set $health to $health - round($boss_damage / 2)>>
             <<if $health <= 0>>
                 <<jump Act1BossDie>>
             <<endif>>
@@ -92,14 +92,14 @@ The creature rises. The floor cracks under its weight. Your stats: HP {$health}/
         <<endif>>
         You're both battered. One of you will break first.
         -> ⚔️ Everything you have
-            <<set $health to $health - ($boss_damage / 2)>>
+            <<set $health to $health - round($boss_damage / 2)>>
             <<if $health <= 0>>
                 <<jump Act1BossDie>>
             <<endif>>
             <<set $boss_health to 0>>
             <<jump Act1BossWin>>
         -> 🛡️ Outlast it
-            <<set $health to $health - ($boss_damage / 2)>>
+            <<set $health to $health - round($boss_damage / 2)>>
             <<if $health <= 0>>
                 <<jump Act1BossDie>>
             <<endif>>
@@ -110,7 +110,7 @@ The creature rises. The floor cracks under its weight. Your stats: HP {$health}/
         <<if $health <= 0>>
             <<jump Act1BossDie>>
         <<endif>>
-        <<set $boss_health to $boss_health - ($damage / 2)>>
+        <<set $boss_health to $boss_health - round($damage / 2)>>
         Your patience pays off. The creature overextends. (Boss HP: {$boss_health})
         <<if $boss_health <= 0>>
             <<jump Act1BossWin>>
