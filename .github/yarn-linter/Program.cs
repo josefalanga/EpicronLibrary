@@ -34,9 +34,7 @@ foreach (var diag in result.Diagnostics)
     var file = diag.FileName ?? "(unknown)";
     var line = diag.Range.Start.Line + 1;
     var col  = diag.Range.Start.Character + 1;
-    var code = diag.Code ?? "";
-
-    Console.WriteLine($"{severity}: {file}:{line}:{col} [{code}] {diag.Message}");
+    Console.WriteLine($"{severity}: {file}:{line}:{col} {diag.Message}");
 
     if (diag.Severity == Diagnostic.DiagnosticSeverity.Error)
         hasErrors = true;
