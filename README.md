@@ -74,3 +74,4 @@ tags: autoroll
 ```
 
 Esto está pensado para agregar proceduralidad a las historias, por ejemplo para determinar qué evento o enemigo aparece. El bot elegirá una opción al azar y continuará la historia sin intervención del jugador.
+Para que funcione tiene que haber al menos 6 opciones en el nodo.
