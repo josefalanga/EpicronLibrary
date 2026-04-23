@@ -1,5 +1,5 @@
 id,node,lineNumber,tags
-line:02730b37,Start,67,lastline
+line:02730b37,Start,72,lastline
 line:4773bacf,Big_Fish,18,lastline
 line:d47c5329,The_Cleric,36,lastline
 line:0f39ea24,Golden_Idol,57,lastline
@@ -7,6 +7,16 @@ line:f545b966,Golden_Shrine,87,lastline
 line:aac21fb4,Face_Trader,108,lastline
 line:7214f41e,Act1Hub,9,lastline
 line:a515e870,Act1Hub,28,lastline
-line:79de5ec3,Act1Boss,7,lastline
-line:b71b2faa,Act1Boss,14,lastline
-line:79a5ab1d,Act1BossWin,43,lastline
+line:4d3b168b,Act1CombatRoll,52,lastline
+line:f2626624,Act1CombatRoll,67,lastline
+line:fb279f9a,Act1TreasureRoll,147,lastline
+line:0d7c40e3,Act1Rest,165,lastline
+line:c71da323,Act1Shop,207,lastline
+line:e764807c,Act1Boss,7,lastline
+line:8a34958b,Act1Boss,20,lastline
+line:a1782382,Act1Boss,30,lastline
+line:af9472b1,Act1Boss,44,lastline
+line:206018c1,Act1Boss,65,lastline
+line:eea569a8,Act1Boss,83,lastline
+line:db000a41,Act1Boss,93,lastline
+line:3ef238ff,Act1BossWin,145,lastline
