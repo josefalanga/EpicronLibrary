@@ -5,6 +5,8 @@ tags: autoroll
     <<jump Big_Fish>>
 -> The_Cleric
     <<jump The_Cleric>>
+-> The_Cleric
+    <<jump The_Cleric>>
 -> Golden_Idol
     <<jump Golden_Idol>>
 -> Face_Trader
