@@ -29,6 +29,7 @@ jobs:
       - name: Build ysc from source
         run: |
           git clone --depth=1 --branch v2.5.0 https://github.com/YarnSpinnerTool/YarnSpinner-Console.git /tmp/ysc-src
+          sed -i 's|<TargetFramework>netcoreapp6.0</TargetFramework>|<TargetFramework>net8.0</TargetFramework>|' /tmp/ysc-src/src/YarnSpinner.Console/ysc.csproj
           cd /tmp/ysc-src
           dotnet build -c Release
           echo "YSC_BIN=$(find /tmp/ysc-src -name 'ysc' -type f | head -1)" >> $GITHUB_ENV
