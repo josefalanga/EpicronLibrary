@@ -110,79 +110,79 @@ line:eba60b23,The {0} is still standing! It hits you again.,/home/runner/work/Ep
 line:7abbb4b3,You finish it off through sheer stubbornness.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,80
 line:ec8bb3c4,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,82
 line:090274a4,🛡️ Defend and counter,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,84
-line:9f3273d3,"You take a defensive stance and counter-strike, finishing it off.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,91
-line:25637a4a,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,93
-line:b3537d3d,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,94
-line:10c619a3,You turn and run. The {0} gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,95
-line:86f61ed4,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,100
-line:3ca7174d,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,102
-line:aa97103a,You raise your guard. The {0}'s blow glances off. You counter-attack.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,107
-line:3b8aafaa,The {0} collapses. Clean kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,110
-line:adbaa8dd,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,112
-line:ca51598f,The {0} is wounded but still fighting! (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,114
-line:5c615ef8,You finish it with a second strike.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,115
-line:e6305761,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,117
-line:70005016,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,119
-line:d3953488,You turn and run before it can react. It gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,120
-line:45a533ff,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,125
-line:35e2eef3,You find a dusty chest wedged behind a collapsed pillar.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,131
-line:a3d2e984,Inside: a handful of gold coins and a strange vial.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,132
-line:32cf5614,"You pocket 40 gold and drink the vial. It tastes like regret, but your wounds close slightly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,134
-line:a4ff5163,"A skeleton slumps against the wall, still clutching a coin purse.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,140
-line:41769603,You take 55 gold. The skeleton doesn't object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,142
-line:d7469174,You also find a worn whetstone. Your blade feels sharper.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,143
-line:6d1798ed,"A glowing chest sits in the center of the room, completely unguarded.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,146
-line:fb279f9a,That's suspicious.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,147
-line:58b2fb04,Open it anyway,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,148
-line:ce82fc73,Inside: 70 gold and a small healing potion.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,150
-line:74d3f5ea,No trap. Sometimes a chest is just a chest.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,155
-line:e2e3f29d,Leave it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,156
-line:73fe4d0d,You walk past. The chest watches you go.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,157
-line:e5ce4a7a,You feel like an idiot two floors later.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,158
-line:9b4c4794,You find a small alcove with a smouldering campfire. Someone was here recently.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,164
-line:0d7c40e3,Your HP: {0}/{1}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,165
-line:b72d497a,🔥 Rest (recover HP),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,166
-line:211d4e0d,"You sit by the fire, eat some rations, and tend to your wounds.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,167
-line:82882a93,You feel considerably less like dying. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,172
-line:14b82de4,🔨 Smith (spend 50 gold to upgrade damage +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,173
-line:aee9247d,You find a makeshift forge in the corner and spend time sharpening and reinforcing your weapon.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,177
-line:38d9230a,It feels noticeably deadlier. (Damage: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,178
-line:a9c49c9a,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,180
-line:3ff49bed,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,181
-line:da7d5c8d,📖 Study (spend 50 gold to upgrade block +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,187
-line:4c4d5bfa,You find some scrawled notes left by a previous climber about defensive techniques.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,191
-line:f61c5263,You practice until the fire dies. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,192
-line:602c5514,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,194
-line:c3b9318a,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,195
-line:eb7cadcd,A merchant has set up a rickety stall in the middle of the corridor. He's wearing a top hat and a smile that doesn't reach his eyes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,205
-line:512da454,"Merchant: ""Ah, a customer! Wonderful. I accept only gold. No returns. No refunds. No complaints.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,206
-line:c71da323,Your gold: {0}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,207
-line:56001cb3,💊 Healing Potion (35 gold) — restore 25 HP,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,208
-line:c0301bc4,"Merchant: ""Finest brew in the tower. Probably.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,215
-line:a7dbea96,You drink it. It tastes like copper and hope. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,216
-line:31ebede1,"Merchant: ""Come back when you have more coin, friend.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,218
-line:8bbae478,"You can't afford it. (Need 35, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,219
-line:1d8ae30f,⚔️ Weapon Upgrade (60 gold) — damage +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,221
-line:be1f8791,"Merchant: ""Enchanted. Mostly.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,225
-line:282f80e6,"Your weapon hums with a faint, slightly ominous energy. (Damage: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,226
-line:927e897f,"Merchant: ""A fine choice, if you could afford it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,228
-line:044e8e08,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,229
-line:95533198,🛡️ Shield Charm (60 gold) — block +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,231
-line:036336ef,"Merchant: ""Deflects most things. The rest builds character.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,235
-line:e6eaf18f,A small charm attaches itself to your armor. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,236
-line:70daf6f8,"Merchant: ""Perhaps next time.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,238
-line:ca8bff61,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,239
-line:5cbbf816,❤️ Max HP Upgrade (80 gold) — max HP +20,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,241
-line:ff2e9c88,"Merchant: ""Vitality. The most underrated commodity.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,246
-line:691e9bff,You feel your body expand slightly to accommodate more punishment. (Max HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,247
-line:d34f9266,"Merchant: ""A wise investment, if only you had the funds.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,249
-line:457f9511,"You can't afford it. (Need 80, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,250
-line:d4622a81,🚪 Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,252
-line:42522df6,"Merchant: ""Come again! Or don't. The tower doesn't care either way.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,253
-line:3cc6a387,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In their hand, a gruesome blade shines red.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,258
-line:aaf6a4f0,"""Uh... I always thought it was a Scythe"" you think to yourself.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,260
-line:10a7ad69,"- Stranger: I'm sorry, I'm not Death. I'm something way, way worse... little one.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,262
-line:8697aa1e,"He raises the sword in the air, and you prepare for the strike, but it never comes. Everything just fades away, and you feel numb.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,264
+line:9f3273d3,"You take a defensive stance and counter-strike, finishing it off.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,90
+line:25637a4a,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,92
+line:b3537d3d,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,93
+line:10c619a3,You turn and run. The {0} gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,94
+line:86f61ed4,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,99
+line:3ca7174d,🛡️ Defend first,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,101
+line:aa97103a,You raise your guard. The {0}'s blow glances off. You counter-attack.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,106
+line:3b8aafaa,The {0} collapses. Clean kill.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,109
+line:adbaa8dd,You loot 12 gold.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,111
+line:ca51598f,The {0} is wounded but still fighting! (Enemy HP: {1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,113
+line:5c615ef8,You finish it with a second strike.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,114
+line:e6305761,You loot 12 gold. (Your HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,116
+line:70005016,🏃 Flee (lose 8 health),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,118
+line:d3953488,You turn and run before it can react. It gets a parting swipe in.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,119
+line:45a533ff,"You escape, bruised and embarrassed.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1CombatRoll,124
+line:35e2eef3,You find a dusty chest wedged behind a collapsed pillar.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,130
+line:a3d2e984,Inside: a handful of gold coins and a strange vial.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,131
+line:32cf5614,"You pocket 40 gold and drink the vial. It tastes like regret, but your wounds close slightly.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,133
+line:a4ff5163,"A skeleton slumps against the wall, still clutching a coin purse.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,139
+line:41769603,You take 55 gold. The skeleton doesn't object.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,141
+line:d7469174,You also find a worn whetstone. Your blade feels sharper.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,142
+line:6d1798ed,"A glowing chest sits in the center of the room, completely unguarded.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,145
+line:fb279f9a,That's suspicious.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,146
+line:58b2fb04,Open it anyway,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,147
+line:ce82fc73,Inside: 70 gold and a small healing potion.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,149
+line:74d3f5ea,No trap. Sometimes a chest is just a chest.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,154
+line:e2e3f29d,Leave it,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,155
+line:73fe4d0d,You walk past. The chest watches you go.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,156
+line:e5ce4a7a,You feel like an idiot two floors later.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1TreasureRoll,157
+line:9b4c4794,You find a small alcove with a smouldering campfire. Someone was here recently.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,163
+line:0d7c40e3,Your HP: {0}/{1}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,164
+line:b72d497a,🔥 Rest (recover HP),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,165
+line:211d4e0d,"You sit by the fire, eat some rations, and tend to your wounds.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,166
+line:82882a93,You feel considerably less like dying. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,171
+line:14b82de4,🔨 Smith (spend 50 gold to upgrade damage +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,172
+line:aee9247d,You find a makeshift forge in the corner and spend time sharpening and reinforcing your weapon.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,176
+line:38d9230a,It feels noticeably deadlier. (Damage: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,177
+line:a9c49c9a,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,179
+line:3ff49bed,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,180
+line:da7d5c8d,📖 Study (spend 50 gold to upgrade block +8),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,186
+line:4c4d5bfa,You find some scrawled notes left by a previous climber about defensive techniques.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,190
+line:f61c5263,You practice until the fire dies. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,191
+line:602c5514,"You don't have enough gold for that. (Need 50, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,193
+line:c3b9318a,You rest instead.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Rest,194
+line:eb7cadcd,A merchant has set up a rickety stall in the middle of the corridor. He's wearing a top hat and a smile that doesn't reach his eyes.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,204
+line:512da454,"Merchant: ""Ah, a customer! Wonderful. I accept only gold. No returns. No refunds. No complaints.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,205
+line:c71da323,Your gold: {0}.,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,206
+line:56001cb3,💊 Healing Potion (35 gold) — restore 25 HP,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,207
+line:c0301bc4,"Merchant: ""Finest brew in the tower. Probably.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,214
+line:a7dbea96,You drink it. It tastes like copper and hope. (HP: {0}/{1}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,215
+line:31ebede1,"Merchant: ""Come back when you have more coin, friend.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,217
+line:8bbae478,"You can't afford it. (Need 35, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,218
+line:1d8ae30f,⚔️ Weapon Upgrade (60 gold) — damage +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,220
+line:be1f8791,"Merchant: ""Enchanted. Mostly.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,224
+line:282f80e6,"Your weapon hums with a faint, slightly ominous energy. (Damage: {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,225
+line:927e897f,"Merchant: ""A fine choice, if you could afford it.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,227
+line:044e8e08,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,228
+line:95533198,🛡️ Shield Charm (60 gold) — block +10,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,230
+line:036336ef,"Merchant: ""Deflects most things. The rest builds character.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,234
+line:e6eaf18f,A small charm attaches itself to your armor. (Block: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,235
+line:70daf6f8,"Merchant: ""Perhaps next time.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,237
+line:ca8bff61,"You can't afford it. (Need 60, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,238
+line:5cbbf816,❤️ Max HP Upgrade (80 gold) — max HP +20,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,240
+line:ff2e9c88,"Merchant: ""Vitality. The most underrated commodity.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,245
+line:691e9bff,You feel your body expand slightly to accommodate more punishment. (Max HP: {0}),/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,246
+line:d34f9266,"Merchant: ""A wise investment, if only you had the funds.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,248
+line:457f9511,"You can't afford it. (Need 80, have {0})",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,249
+line:d4622a81,🚪 Leave,/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,251
+line:42522df6,"Merchant: ""Come again! Or don't. The tower doesn't care either way.""",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1Shop,252
+line:3cc6a387,"Lying on the floor, bleeding out of your wounds, a towering hooded figure approaches. In their hand, a gruesome blade shines red.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,257
+line:aaf6a4f0,"""Uh... I always thought it was a Scythe"" you think to yourself.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,259
+line:10a7ad69,"- Stranger: I'm sorry, I'm not Death. I'm something way, way worse... little one.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,261
+line:8697aa1e,"He raises the sword in the air, and you prepare for the strike, but it never comes. Everything just fades away, and you feel numb.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/act1hub.yarn,Act1ClimbDie,263
 line:cb058e92,"As you touch the altar, the room walls seem to vanish in thin air, uncovering a bigger room. The light is dim, from the torches in the walls, but you can see a huge creature, seemingly in deep slumber. Wings, tentacles, like a rolling mass of flesh, you can hardly identify the shape of a creature.",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,3
 line:5d3589e5,"No head in sight, but you feel suddenly like the creature is watching you. The stare crushes your soul, and makes you feel empty, like a walking corpse. How can it see me, with no eyes?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,5
 line:e764807c,"Creature: Why do you disturb my slumber again, pathetic worm? Do you really like dying that much?",/home/runner/work/EpicronLibrary/EpicronLibrary/stories/the-spire/source/boss.yarn,Act1Boss,7
