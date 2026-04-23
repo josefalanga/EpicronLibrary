@@ -14,7 +14,15 @@ title: MainHub
 
 <b>— DAY {$days_waiting} AT OUTPOST OMEGA-9 —</b>
 <b>Credits:</b> {$credits} | <b>Patience:</b> {$patience} | <b>Stamps:</b> {$stamps}
-<<if $form_27b_stroke_6>><b>Form 27B/6:</b> ✓<<else>><b>Form 27B/6:</b> ✗<<endif>> | <<if $form_omega>><b>Form Ω:</b> ✓<<else>><b>Form Ω:</b> ✗<<endif>> | <<if $form_transit>><b>Transit Permit:</b> ✓<<else>><b>Transit Permit:</b> ✗<<endif>>
+<<if $form_27b_stroke_6 and $form_omega and $form_transit>>
+<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✓ | <b>Transit Permit:</b> ✓
+<<elseif $form_27b_stroke_6 and $form_omega>>
+<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✓ | <b>Transit Permit:</b> ✗
+<<elseif $form_27b_stroke_6>>
+<b>Form 27B/6:</b> ✓ | <b>Form Ω:</b> ✗ | <b>Transit Permit:</b> ✗
+<<else>>
+<b>Form 27B/6:</b> ✗ | <b>Form Ω:</b> ✗ | <b>Transit Permit:</b> ✗
+<<endif>>
 
 What do you do?
 
